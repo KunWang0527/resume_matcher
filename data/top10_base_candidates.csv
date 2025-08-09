@@ -1,0 +1,11 @@
+resume_id,name,final_score,rule_score,semantic_score,suitability,matched_skills,missing_skills
+resume_v4.21,BOYANG LIU,83.73,100,59.33,Suitable,"docker, git, java, rest api, sql, aws, rest api development, python, amazon web services, rest",api
+Astrid_resume,Astrid Gao,82.0,100,55.0,Suitable,"git, java, rest api, sql, aws, rest api development, python, amazon web services, rest","docker, api"
+Lin Yang CV,Lin Yang,80.8,99,53.5,Suitable,"git, java, rest api, sql, aws, rest api development, python, amazon web services, rest","docker, api"
+python-developer-resume-example,GIULIA WORK EXPERIENCE,80.23,100,50.58,Suitable,"git, java, rest api, sql, aws, rest api development, python, amazon web services, rest","docker, api"
+java-software-engineer-resume-example,YVONNE GREEN WORK EXPERIENCE,79.45,100,48.62,Suitable,"docker, git, java, rest api, sql, aws, rest api development, amazon web services, rest","api, python"
+YaoyaoWang_Resume_NEU,,78.77,98,49.91,Suitable,"git, java, rest api, sql, aws, rest api development, python, amazon web services, rest","docker, api"
+software-engineer-resume-example,SOFTWARE ENGINEER,77.0,96,48.5,Suitable,"git, java, rest api, sql, aws, rest api development, python, amazon web services, rest","docker, api"
+freelance-software-engineer-resume-example,DAVID NGUYEN,72.98,90,47.45,Suitable,"docker, git, rest api, sql, aws, rest api development, python, amazon web services, rest","api, java"
+software-engineering-manager-resume-example,SOFTWARE ENGINEERING MANAGER,71.68,88,47.2,Suitable,"docker, git, java, sql, aws, amazon web services","api, rest api development, python, rest api, rest"
+Anthony Zhang's Data resume,Anthony Zhang,69.94,86,45.86,Maybe Suitable,"docker, git, java, sql, rest api development, python, rest api, rest","aws, amazon web services, api"

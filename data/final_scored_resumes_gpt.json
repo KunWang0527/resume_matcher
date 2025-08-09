@@ -1,0 +1,1409 @@
+{
+  "job_title": "Software Engineer - Backend",
+  "total_candidates": 47,
+  "scored_resumes": [
+    {
+      "resume_id": "python-developer-resume-example",
+      "name": "Giulia Gonzalez",
+      "rule_score": 100,
+      "semantic_score": 44.5,
+      "final_score": 77.8,
+      "suitability": "Suitable",
+      "breakdown": {
+        "skills_score": 100,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ],
+      "missing_skills": [
+        "docker"
+      ]
+    },
+    {
+      "resume_id": "Astrid_resume",
+      "name": "Astrid Gao",
+      "rule_score": 81,
+      "semantic_score": 46.47,
+      "final_score": 67.19,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 73,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "rest api",
+        "docker",
+        "api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "YaoyaoWang_Resume_NEU",
+      "name": "Yaoyao (Renee) Wang",
+      "rule_score": 74,
+      "semantic_score": 48.03,
+      "final_score": 63.61,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 66,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "git",
+        "java",
+        "sql",
+        "rest api development",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "docker",
+        "api",
+        "aws",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Resume_Hao_Yang",
+      "name": "Hao Yang",
+      "rule_score": 70,
+      "semantic_score": 51.0,
+      "final_score": 62.4,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 70,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "rest api",
+        "api",
+        "rest api development",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "KW_Resume",
+      "name": "Kun Wang",
+      "rule_score": 70,
+      "semantic_score": 50.59,
+      "final_score": 62.23,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 70,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "rest api",
+        "api",
+        "rest api development",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "faang-software-engineer-resume-example",
+      "name": "Selene Archer",
+      "rule_score": 68,
+      "semantic_score": 49.61,
+      "final_score": 60.64,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 60,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "java",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "senior-software-engineer-resume-example",
+      "name": "Tasiana Ukura",
+      "rule_score": 66,
+      "semantic_score": 51.94,
+      "final_score": 60.38,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 66,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "docker",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Lin Yang CV",
+      "name": "Lin Yang",
+      "rule_score": 71,
+      "semantic_score": 43.02,
+      "final_score": 59.81,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 69,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 2,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "docker",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-engineering-manager-resume-example",
+      "name": "Z A R A G R E E N E",
+      "rule_score": 68,
+      "semantic_score": 44.78,
+      "final_score": 58.71,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 60,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "api",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "java-software-engineer-resume-example",
+      "name": "Yvonne Green",
+      "rule_score": 60,
+      "semantic_score": 46.45,
+      "final_score": 54.58,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 60,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "api",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "backend-software-engineer-resume-example",
+      "name": "Amanda",
+      "rule_score": 60,
+      "semantic_score": 46.26,
+      "final_score": 54.5,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 60,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "java",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "resume_v4.21",
+      "name": "BOYANG LIU",
+      "rule_score": 60,
+      "semantic_score": 46.06,
+      "final_score": 54.42,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 50,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 10,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "java",
+        "sql",
+        "python"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "api",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "freelance-software-engineer-resume-example",
+      "name": "David Nguyen",
+      "rule_score": 60,
+      "semantic_score": 45.58,
+      "final_score": 54.23,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 60,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "java",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-engineer-resume-example",
+      "name": "Charles McTurland",
+      "rule_score": 60,
+      "semantic_score": 44.33,
+      "final_score": 53.73,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 60,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "docker",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-development-engineer-resume-example",
+      "name": "SERAPHINA BLAKE",
+      "rule_score": 60,
+      "semantic_score": 40.08,
+      "final_score": 52.03,
+      "suitability": "Maybe Suitable",
+      "breakdown": {
+        "skills_score": 60,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "docker",
+        "git",
+        "java",
+        "sql",
+        "aws",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "api",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "ds temp 1.docx",
+      "name": "Individual",
+      "rule_score": 50,
+      "semantic_score": 39.75,
+      "final_score": 45.9,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 50,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "java",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "amazon-software-engineer-resume-example",
+      "name": "Wendy Bailey",
+      "rule_score": 51,
+      "semantic_score": 36.84,
+      "final_score": 45.34,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 43,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "sql",
+        "aws",
+        "amazon web services",
+        "python"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "google-software-engineer-resume-example",
+      "name": "KIAN MARSHALL",
+      "rule_score": 60,
+      "semantic_score": 19.84,
+      "final_score": 43.94,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 40,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 20
+      },
+      "matched_skills": [
+        "rest api",
+        "api",
+        "rest api development",
+        "java"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "sql",
+        "aws",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Software_Engineering_2",
+      "name": null,
+      "rule_score": 46,
+      "semantic_score": 37.8,
+      "final_score": 42.72,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 46,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "git",
+        "python",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "api",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "entrylevel-software-engineer-resume-example",
+      "name": "AMIE CLAUDE",
+      "rule_score": 40,
+      "semantic_score": 39.59,
+      "final_score": 39.84,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 40,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "git",
+        "python",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "api",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "security-engineer-resume-example",
+      "name": "Ilyia Karaslavov",
+      "rule_score": 40,
+      "semantic_score": 38.82,
+      "final_score": 39.53,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 40,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "aws",
+        "amazon web services",
+        "java"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "api",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "apple-software-engineer-resume-example",
+      "name": null,
+      "rule_score": 49,
+      "semantic_score": 18.98,
+      "final_score": 36.99,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 33,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 16
+      },
+      "matched_skills": [
+        "sql",
+        "git",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "api",
+        "aws",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "new-grad-software-engineer-resume-example",
+      "name": "Fallon Winslow",
+      "rule_score": 30,
+      "semantic_score": 31.89,
+      "final_score": 30.76,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 30,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "git",
+        "python"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "java",
+        "api",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-developer-resume-example",
+      "name": "Cynthia Dwayne",
+      "rule_score": 33,
+      "semantic_score": 27.34,
+      "final_score": 30.74,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 33,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "python",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "git",
+        "api",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Resume-Sample-1-Software-Engineer",
+      "name": "FIRST LAST",
+      "rule_score": 30,
+      "semantic_score": 28.63,
+      "final_score": 29.45,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 30,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "docker",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "git",
+        "api",
+        "aws",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-engineer-new-grad-resume-example",
+      "name": "LYSANDRA VEGA",
+      "rule_score": 30,
+      "semantic_score": 28.44,
+      "final_score": 29.38,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 30,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "git",
+        "python"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "java",
+        "api",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "principal-software-engineer-resume-example",
+      "name": "Gaia Park",
+      "rule_score": 28,
+      "semantic_score": 29.69,
+      "final_score": 28.68,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 20,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "python",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "git",
+        "api",
+        "sql",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Hao_Wang_-_ (2)",
+      "name": "Hao Wang",
+      "rule_score": 30,
+      "semantic_score": 26.23,
+      "final_score": 28.49,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 30,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "python",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "git",
+        "api",
+        "aws",
+        "rest api development",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "mid-level-software-engineer-resume-example",
+      "name": "Adira Patel",
+      "rule_score": 30,
+      "semantic_score": 24.46,
+      "final_score": 27.78,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 30,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "git",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "api",
+        "aws",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "embedded-software-engineer-resume-example",
+      "name": "SALVADOR SANZ",
+      "rule_score": 28,
+      "semantic_score": 27.09,
+      "final_score": 27.64,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 20,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "rest api development",
+        "python"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "git",
+        "java",
+        "api",
+        "sql",
+        "aws",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "director-of-software-engineering-resume-example",
+      "name": "Renata Voss",
+      "rule_score": 20,
+      "semantic_score": 26.06,
+      "final_score": 22.43,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 20,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "aws",
+        "amazon web services"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "sql",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "staff-software-engineer-resume-example",
+      "name": "Lucian Ashford",
+      "rule_score": 23,
+      "semantic_score": 21.26,
+      "final_score": 22.31,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 23,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "git",
+        "api",
+        "aws",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-integration-engineer-resume-example",
+      "name": "DEAN BLYTHE",
+      "rule_score": 28,
+      "semantic_score": 12.76,
+      "final_score": 21.9,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 20,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [
+        "sql",
+        "java"
+      ],
+      "missing_skills": [
+        "amazon web services",
+        "docker",
+        "git",
+        "api",
+        "aws",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "front-end-software-engineer-resume-example",
+      "name": "Xavier Rivera",
+      "rule_score": 20,
+      "semantic_score": 14.0,
+      "final_score": 17.6,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 20,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "amazon web services",
+        "git"
+      ],
+      "missing_skills": [
+        "docker",
+        "java",
+        "api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "rest api",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-engineer-intern-resume-example",
+      "name": "Caius Kessler",
+      "rule_score": 10,
+      "semantic_score": 21.25,
+      "final_score": 14.5,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 10,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "experienced-software-engineer-resume-example",
+      "name": "Kian Woods",
+      "rule_score": 10,
+      "semantic_score": 18.75,
+      "final_score": 13.5,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 10,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "junior-software-engineer-resume-example",
+      "name": "ARIA FISCHER",
+      "rule_score": 10,
+      "semantic_score": 11.21,
+      "final_score": 10.48,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 10,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-qa-engineer-resume-example",
+      "name": "Isolde Mercer",
+      "rule_score": 10,
+      "semantic_score": 9.63,
+      "final_score": 9.85,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 10,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "sql"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-quality-engineer-resume-example",
+      "name": "Victor Reed",
+      "rule_score": 8,
+      "semantic_score": 5.98,
+      "final_score": 7.19,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 0,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 8
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "associate-software-engineer-resume-example (1)",
+      "name": "Tamara Turbinado",
+      "rule_score": 10,
+      "semantic_score": 2.81,
+      "final_score": 7.12,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 10,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "associate-software-engineer-resume-example",
+      "name": null,
+      "rule_score": 10,
+      "semantic_score": 2.81,
+      "final_score": 7.12,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 10,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [
+        "docker",
+        "git",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "lead-software-engineer-resume-example",
+      "name": "LEANDER HARTMAN",
+      "rule_score": 0,
+      "semantic_score": 13.5,
+      "final_score": 5.4,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 0,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Kun_Wang_-_Software_Engineer",
+      "name": "Kun Wang",
+      "rule_score": 4,
+      "semantic_score": 5.49,
+      "final_score": 4.6,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 0,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 4,
+        "company_score": 0
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "software-engineer-student-resume-example",
+      "name": "Tina Cook",
+      "rule_score": 0,
+      "semantic_score": 6.88,
+      "final_score": 2.75,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 0,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Anthony Zhang's Data resume",
+      "name": "Anthony Zhang",
+      "rule_score": 0,
+      "semantic_score": 5.49,
+      "final_score": 2.2,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 0,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Computer Science Resume",
+      "name": "Richard Tiger",
+      "rule_score": 0,
+      "semantic_score": 5.49,
+      "final_score": 2.2,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 0,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    },
+    {
+      "resume_id": "Resume JX 3",
+      "name": "Jianyi Xu",
+      "rule_score": 0,
+      "semantic_score": 5.49,
+      "final_score": 2.2,
+      "suitability": "Not Suitable",
+      "breakdown": {
+        "skills_score": 0,
+        "education_score": 0,
+        "experience_score": 0,
+        "projects_score": 0,
+        "company_score": 0
+      },
+      "matched_skills": [],
+      "missing_skills": [
+        "docker",
+        "git",
+        "java",
+        "api",
+        "rest api",
+        "sql",
+        "aws",
+        "rest api development",
+        "python",
+        "amazon web services",
+        "rest"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+    "job_id": "job_001",
+    "title": "Software Engineer - Backend",
+    "category": "Software Engineering",
+    "description": "Build and maintain backend services for a high-traffic web application. Design and implement RESTful APIs, integrate with relational databases (e.g., PostgreSQL/MySQL) and in-memory caches (e.g., Redis), deploy and operate on AWS (ECS/EKS/EC2), and containerize services with Docker. Establish CI/CD via GitHub Actions (or similar), follow microservices best practices, implement observability (metrics/logging/tracing), and ensure reliability, scalability, and security.",
+    "must_have_skills": [
+      "Python",
+      "REST API Development",
+      "SQL",
+      "Docker",
+      "Git"
+    ],
+    "required_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "REST API Development",
+      "AWS",
+      "Docker",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "GraphQL",
+      "NoSQL Databases",
+      "CI/CD Pipelines",
+      "Microservices Architecture"
+    ],
+    "preferred_companies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Apple",
+      "Netflix",
+      "Uber",
+      "Airbnb",
+      "Spotify",
+      "GitHub",
+      "DocuSign",
+      "Salesforce"
+    ],
+    "experience_required": 2,
+    "education_required": "Bachelor's Degree in Computer Science or related field"
+  }
+  

@@ -1,0 +1,11 @@
+resume_id,name,final_score,rule_score,semantic_score,suitability,matched_skills,missing_skills
+python-developer-resume-example,Giulia Gonzalez,77.8,100,44.5,Suitable,"git, java, api, rest api, sql, aws, rest api development, python, amazon web services, rest",docker
+Astrid_resume,Astrid Gao,67.19,81,46.47,Maybe Suitable,"git, java, sql, aws, rest api development, python, amazon web services","rest api, docker, api, rest"
+YaoyaoWang_Resume_NEU,Yaoyao (Renee) Wang,63.61,74,48.03,Maybe Suitable,"git, java, sql, rest api development, python, amazon web services","docker, api, aws, rest api, rest"
+Resume_Hao_Yang,Hao Yang,62.4,70,51.0,Maybe Suitable,"docker, git, java, sql, aws, python, amazon web services","rest api, api, rest api development, rest"
+KW_Resume,Kun Wang,62.23,70,50.59,Maybe Suitable,"docker, git, java, sql, aws, python, amazon web services","rest api, api, rest api development, rest"
+faang-software-engineer-resume-example,Selene Archer,60.64,68,49.61,Maybe Suitable,"docker, git, sql, aws, python, amazon web services","java, api, rest api development, rest api, rest"
+senior-software-engineer-resume-example,Tasiana Ukura,60.38,66,51.94,Maybe Suitable,"git, java, sql, aws, python, amazon web services","docker, api, rest api development, rest api, rest"
+Lin Yang CV,Lin Yang,59.81,71,43.02,Maybe Suitable,"git, java, sql, aws, python, amazon web services","docker, api, rest api development, rest api, rest"
+software-engineering-manager-resume-example,Z A R A G R E E N E,58.71,68,44.78,Maybe Suitable,"docker, git, java, sql, aws, amazon web services","api, rest api development, python, rest api, rest"
+java-software-engineer-resume-example,Yvonne Green,54.58,60,46.45,Maybe Suitable,"docker, git, java, sql, aws, amazon web services","api, rest api development, python, rest api, rest"

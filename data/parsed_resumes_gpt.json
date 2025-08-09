@@ -1,0 +1,4150 @@
+{
+  "resumes": [
+    {
+      "name": "Wendy Bailey",
+      "title": "Software Engineer",
+      "email": "w.bailey@email.com",
+      "phone": "(123) 456-7890",
+      "location": "Philadelphia, PA",
+      "linkedin": "LinkedIn",
+      "work_experience": [
+        {
+          "company": "Amazon",
+          "title": "Software Engineer",
+          "duration": "2023 - current",
+          "location": "Philadelphia, PA",
+          "responsibilities": [
+            "Developed and deployed 9 microservices using Kubernetes on AWS, increasing monthly email-based user satisfaction ratings by 7%.",
+            "Automated regression and functional testing on Selenium, reducing manual testing by 6 hours.",
+            "Released 2 new features for Amazon Prime, growing user subscriptions by 18% within three months.",
+            "Created custom Python scripts to automate infrastructure management tasks, saving 7 hours each week."
+          ]
+        },
+        {
+          "company": "Duolingo",
+          "title": "Software Developer",
+          "duration": "2020 - 2023",
+          "location": "Pittsburgh, PA",
+          "responsibilities": [
+            "Led a team on IntelliJ IDEA to build 6 interactive language learning features that boosted monthly user engagement by 21%.",
+            "Introduced Angular-based authentication features for the sign-up process, lowering monthly user dropout rates by 24%.",
+            "Collaborated with 3 developers to review source codes on SVN, preventing code conflicts.",
+            "Held pre-deployment checks with Travis CI, ensuring smooth updates while slashing post-release hotfixes by 37%."
+          ]
+        },
+        {
+          "company": "BNY Mellon",
+          "title": "Junior Software Developer",
+          "duration": "2017 - 2020",
+          "location": "Pittsburgh, PA",
+          "responsibilities": [
+            "Assisted in designing a PostgreSQL database schema that cut down data retrieval speeds by 9 minutes.",
+            "Oversaw complex SQL queries and routines for transaction processing, raising the system's throughput by 29%.",
+            "Used Trello to organize project tasks, improving the team\u2019s on-time project submissions by 48%.",
+            "Contributed to developing a PostgreSQL-based fraud detection system, decreasing annual fraudulent transactions by 9%."
+          ]
+        }
+      ],
+      "education": {
+        "institution": "Carnegie Mellon University",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "duration": "2013 - 2017",
+        "location": "Pittsburgh, PA"
+      },
+      "skills": [
+        "Python",
+        "Subversion (SVN)",
+        "IntelliJ IDEA",
+        "PostgreSQL",
+        "Amazon Web Services (AWS)",
+        "Kubernetes",
+        "Travis CI",
+        "Angular",
+        "Selenium",
+        "Trello"
+      ],
+      "resume_id": "amazon-software-engineer-resume-example"
+    },
+    {
+      "name": "Anthony Zhang",
+      "contact": {
+        "phone": "(617)306-6001",
+        "email": "anthoz@u.northwestern.edu",
+        "linkedin": "anthony-zed",
+        "github": "antzed"
+      },
+      "education": [
+        {
+          "institution": "Northwestern University",
+          "degree": "Masters of Science in Computer Science",
+          "gpa": 3.93,
+          "location": "Evanston, IL",
+          "start_date": "Sept 2024",
+          "end_date": "Expected Dec 2025"
+        },
+        {
+          "institution": "University of Washington",
+          "degree": "Bachelor of Science in Computer and Information Science: Data Science",
+          "gpa": 3.8,
+          "location": "Seattle, WA",
+          "start_date": "Sept 2020",
+          "end_date": "June 2024"
+        }
+      ],
+      "experience": [
+        {
+          "title": "Founding Engineer",
+          "company": "LifeLensAR LLC.",
+          "location": "Seattle, WA",
+          "start_date": "Aug 2024",
+          "end_date": "Oct 2024",
+          "responsibilities": [
+            {
+              "description": "Programmed an Android Augmented Reality (AR) application using Kotlin, integrated with healthcare data systems, and deployed to DigiLens ARGO AR wearables.",
+              "achievements": "Automated healthcare data entry tasks, reducing healthcare workers' data processing time by 70%.",
+              "technologies": [
+                "Kotlin",
+                "Gradle",
+                "Data pipeline"
+              ]
+            },
+            {
+              "description": "Optimized the application's front-end UI by establishing an LLM-based design pipeline that converted hand-drawn UI sketches into programmable Figma wireframes.",
+              "achievements": "Streamlined the design process and improved efficiency by 105%.",
+              "technologies": [
+                "AI assisted UI pipeline",
+                "S3"
+              ]
+            },
+            {
+              "description": "Implemented a high-fidelity UI demo using React and deployed it on Heroku.",
+              "achievements": "Used in further executive meetings and ultimately helped secure over $600,000 in additional funding for the company.",
+              "technologies": [
+                "Git",
+                "React",
+                "Heroku"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Software Engineer Intern",
+          "company": "Hiya Inc.",
+          "location": "Seattle, WA",
+          "start_date": "June 2023",
+          "end_date": "Sept 2023",
+          "responsibilities": [
+            {
+              "description": "Led the Agile development of a full-stack data dashboard tool using React for frontend and Express.js for backend.",
+              "achievements": "Resulted in a 32% increase in communication efficiency by streamlining interactions and issue resolution processes.",
+              "technologies": [
+                "React",
+                "Express.js",
+                "Node.js",
+                "RESTful API",
+                "Jira"
+              ]
+            },
+            {
+              "description": "Developed the project code in TypeScript and containerized it using Docker.",
+              "achievements": "Implemented GitLab CI/CD pipelines for automated testing and deployment, ultimately increasing user efficiency by 75%.",
+              "technologies": [
+                "Typescript",
+                "Linux",
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "Postman"
+              ]
+            },
+            {
+              "description": "Created a Python-based Slack bot for internal Q&A, leveraging Jenkins for continuous integration.",
+              "achievements": "The project evolved into a key development assistant tool, integrated with the company's Git-based wiki hub which reduced average query response time by 40%.",
+              "technologies": [
+                "Python",
+                "Jenkins",
+                "Git"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Data Analyst",
+          "company": "University of Washington",
+          "location": "Seattle, WA",
+          "start_date": "June 2022",
+          "end_date": "Dec 2022",
+          "responsibilities": [
+            {
+              "description": "Preprocessed large global carbon emission datasets using Python, optimizing data quality.",
+              "achievements": "Reduced error occurrence by 67%. Automated the data cleaning process as part of a scalable ETL pipeline.",
+              "technologies": [
+                "Python (pandas, NumPy)",
+                "ETL Pipeline"
+              ]
+            },
+            {
+              "description": "Deployed interactive Tableau dashboards linked to a data warehouse.",
+              "achievements": "Provided real-time visualization of emission trends, enabling stakeholders to identify key contributors.",
+              "technologies": [
+                "Tableau"
+              ]
+            },
+            {
+              "description": "Collaborated with Microsoft to design and implement a scalable relational database using SQL.",
+              "achievements": "Improved the efficiency of storing and retrieving carbon emission data.",
+              "technologies": [
+                "SQL",
+                "Azure"
+              ]
+            }
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "2024 Election Prediction With Neural Network",
+          "technologies": [
+            "PyTorch",
+            "Numpy"
+          ],
+          "start_date": "Oct 2024",
+          "end_date": "Dec 2024",
+          "description": "Implemented a dual-method classification model containing feedforward neural networks and decision trees to predict & verify the 2024 U.S. presidential election outcomes."
+        },
+        {
+          "title": "Weather data visualization",
+          "technologies": [
+            "Javascript",
+            "D3.js"
+          ],
+          "start_date": "May 2022",
+          "end_date": "July 2022",
+          "description": "Implemented data visualizations using D3.js and JavaScript to analyze America's weather data in 2014."
+        }
+      ],
+      "resume_id": "Anthony Zhang's Data resume"
+    },
+    {
+      "contact_information": {
+        "email": "s.cook@email.com",
+        "name": "Samuel Cook",
+        "phone": "(123) 456-7890",
+        "location": "Chicago, IL"
+      },
+      "professional_summary": "Software Engineer with experience in developing and deploying containerized applications, automating unit tests, and collaborating on scalable software solutions.",
+      "work_experience": [
+        {
+          "job_title": "Software Engineer",
+          "company": "Apple",
+          "location": "Chicago, IL",
+          "dates": "2024 - current",
+          "responsibilities": [
+            "Developed and deployed containerized applications using Kubernetes, managing 34 microservices across multiple cloud environments.",
+            "Automated unit tests with JUnit for 27 critical application components, improving code quality and cutting defects by 48%.",
+            "Collaborated on defining project requirements and delivering scalable software solutions within tight deadlines.",
+            "Built a PostgreSQL database schema, ensuring data integrity for 100K user records and optimizing query performance."
+          ]
+        },
+        {
+          "job_title": "Frontend Developer",
+          "company": "Google",
+          "location": "Evanston, IL",
+          "dates": "2021 - 2024",
+          "responsibilities": [
+            "Engineered responsive user interfaces using Angular and JavaScript, enhancing UI for 2M active users on the Google Workspace.",
+            "Streamlined data flow between client-side apps and backend services across 9 projects, through Flask-based API integration.",
+            "Utilized Microsoft Azure to deploy and manage frontend applications, expediting deployment for CI/CD pipelines by 32%.",
+            "Collaborated with backend developers via GitHub, contributing to 56 pull requests and maintaining consistent code quality."
+          ]
+        },
+        {
+          "job_title": "Help Desk Technician",
+          "company": "Walgreens",
+          "location": "Evanston, IL",
+          "dates": "2019 - 2021",
+          "responsibilities": [
+            "Handled 306 customer service tickets per month, maintaining a 98% response time compliance.",
+            "Diagnosed and resolved software-related conflicts with PyCharm, assisting in the debugging of over 52 internal apps.",
+            "Supported 57 staff with hardware, software, and network issues.",
+            "Delivered training to 19 new employees on troubleshooting procedures and company IT systems."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "Northwestern University",
+        "location": "Evanston, IL",
+        "dates": "2015 - 2019"
+      },
+      "skills": [
+        "Kubernetes",
+        "JUnit",
+        "PostgreSQL",
+        "Flask",
+        "Angular",
+        "Microsoft Azure",
+        "PyCharm",
+        "Jira",
+        "GitHub",
+        "JavaScript"
+      ],
+      "linkedin": "LinkedIn",
+      "resume_id": "apple-software-engineer-resume-example"
+    },
+    {
+      "contact": {
+        "email": "Tamar@email.com",
+        "name": "Tamara Turbinado",
+        "phone": "(123) 456-7890",
+        "location": "San Jose, CA",
+        "linkedin": "linkedin.com"
+      },
+      "summary": "Proven Associate Software Engineer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in JavaScript and supporting languages/libraries/frameworks that solve real-world problems through code. Through my time at Boeing, I have gained further hands-on experience in industry-standard development, which I'm looking to apply to a growing business like Amazon.",
+      "work_experience": [
+        {
+          "job_title": "Associate Software Engineer",
+          "company": "Boeing",
+          "location": "Mountain View, CA",
+          "dates": "July 2021 - current",
+          "responsibilities": [
+            "Developed, tested, debugged, and documented 33+ software applications",
+            "Used established coding standards and methodologies and coached 2 junior engineers on best practices",
+            "Worked within an agile scrum team, contributing to 100% continuous improvement and deployment (CICD)",
+            "Designed and developed 26+ software applications based on user stories, requirements, and design specifications",
+            "Documented software changes for use by 37+ engineers, quality assurance and documentation specialists"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "San Jose State University",
+        "dates": "2017 - 2021",
+        "location": "San Jose, CA"
+      },
+      "skills": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "SASS",
+        "JavaScript",
+        "React",
+        "jQuery"
+      ],
+      "projects": [
+        {
+          "name": "Streamer Highlighter",
+          "description": "Designed mobile-first project to help 1,300+ users discover smaller streamers on the Twitch.tv platform, providing a user experience through advanced search integration with Twitch.",
+          "technologies": [
+            "Express.JS",
+            "MongoDB",
+            "React"
+          ],
+          "features": [
+            "Developed 100% RESTful API to control user functions",
+            "Created Mobile Responsive User Experience with CSS Grids that integrated with Twitch API data to allow users to see viewers and gameplay of the streamers"
+          ]
+        },
+        {
+          "name": "Hospitality Highlighter",
+          "description": "Created an application to alert 8-person staff to needed service at tables.",
+          "technologies": [
+            "Express",
+            "MongoDB",
+            "JavaScript",
+            "React"
+          ],
+          "features": [
+            "Designed an easy-to-understand-and-use front-end, enabling customers and staff to alert and be alerted to requests"
+          ]
+        }
+      ],
+      "resume_id": "associate-software-engineer-resume-example (1)"
+    },
+    {
+      "contact_information": {
+        "email": "Tamar@email.com",
+        "name": "Tamara Turbinado",
+        "phone": "(123) 456-7890",
+        "location": "San Jose, CA",
+        "linkedin": "linkedin.com"
+      },
+      "professional_summary": "Proven Associate Software Engineer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in JavaScript and supporting languages/libraries/frameworks that solve real-world problems through code. Through my time at Boeing, I have gained further hands-on experience in industry-standard development, which I'm looking to apply to a growing business like Amazon.",
+      "work_experience": [
+        {
+          "job_title": "Associate Software Engineer",
+          "company": "Boeing",
+          "location": "Mountain View, CA",
+          "dates": "July 2021 - current",
+          "responsibilities": [
+            "Developed, tested, debugged, and documented 33+ software applications",
+            "Used established coding standards and methodologies and coached 2 junior engineers on best practices",
+            "Worked within an agile scrum team, contributing to 100% continuous improvement and deployment (CICD)",
+            "Designed and developed 26+ software applications based on user stories, requirements, and design specifications",
+            "Documented software changes for use by 37+ engineers, quality assurance and documentation specialists"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "San Jose State University",
+        "dates": "2017 - 2021",
+        "location": "San Jose, CA"
+      },
+      "skills": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "SASS",
+        "JavaScript",
+        "React",
+        "jQuery"
+      ],
+      "projects": [
+        {
+          "name": "Streamer Highlighter",
+          "description": "Designed mobile-first project to help 1,300+ users discover smaller streamers on the Twitch.tv platform, providing a user experience through advanced search integration with Twitch.",
+          "technologies": [
+            "Express.JS",
+            "MongoDB",
+            "React"
+          ],
+          "features": [
+            "Developed 100% RESTful API to control user functions",
+            "Created Mobile Responsive User Experience with CSS Grids that integrated with Twitch API data to allow users to see viewers and gameplay of the streamers"
+          ]
+        },
+        {
+          "name": "Hospitality Highlighter",
+          "description": "Created an application to alert 8-person staff to needed service at tables.",
+          "technologies": [
+            "Express",
+            "MongoDB",
+            "JavaScript",
+            "React"
+          ],
+          "features": [
+            "Designed an easy-to-understand-and-use front-end, enabling customers and staff to alert and be alerted to requests",
+            "Implemented Hospitality Highlighter to manage and pass requests from the front-end"
+          ]
+        }
+      ],
+      "resume_id": "associate-software-engineer-resume-example"
+    },
+    {
+      "name": "Astrid Gao",
+      "contact": {
+        "phone": "216-304-8535",
+        "email": "sgao98@hotmail.com"
+      },
+      "work_experience": [
+        {
+          "company": "Alliant Insurance Services, Inc.",
+          "start_date": "August 2023",
+          "end_date": "Current",
+          "title": "Senior Software Engineer",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Led the back-end development of new Voluntary Benefits websites using .NET, TypeScript, Angular, and Azure for high-profile corporate clients, creating applications that served 720k potential users and generated $58 million annual premiums.",
+            "Re-engineered the platform\u2019s logging system by deploying a scalable solution with Azure Event Hubs, Azure Monitor, and Azure Log Analytics, increasing log processing capacity by 300%. This enabled real-time analysis of over 10GB of daily log data, improved system diagnostics, and reduced average issue resolution time by 70%.",
+            "Consolidated authentication workflows of 17 internal systems into a centralized console using SAML2, and developed Single Sign-On capabilities powered by OKTA OAuth/OIDC. This optimization streamlined login processes for 3k DAU, reduced security-related maintenance efforts by 90%, and significantly mitigated security concerns.",
+            "Participated in developing a chatbot integrated with OpenAI REST APIs, Azure Functions, Cosmos DB, and Microsoft Bot Framework, to analyze over 500 benefit offerings on our platform. The chatbot provided personalized recommendations, increasing customer engagement by 50% and streamlining the inquiry process."
+          ]
+        },
+        {
+          "company": "DocuSign, Inc.",
+          "start_date": "April 2022",
+          "end_date": "August 2023",
+          "title": "Software Engineer",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Enhanced the Continuous Deployment pipeline using GitHub REST APIs, PowerShell scripting, and Kusto Query Language, reducing deployment rollback time by 70%. This improvement increased monitoring capabilities, and enabled real-time analytics, leading to faster issue resolution and improved system reliability.",
+            "Spearheaded the upgrade of the Health Alert System with C# and JavaScript, decreasing failed detection of devices with low disk space by 80% and automating cleanup for over 1200 devices daily. This enhancement reduced deployment downtime by 20% and introduced real-time reporting, enabling proactive maintenance and improving operational efficiency across infrastructure and DevOps teams.",
+            "Migrated artifacts from legacy repositories to JFrog Artifactory, consolidating resources and reducing storage costs by 20%, while improving artifacts retrieval time by 40%. This migration improved build efficiency, reduced deployment time, and strengthened software delivery pipeline.",
+            "Took regular on-call rotations for high-severity incidents, promptly resolving critical customer issues and maintaining uninterrupted service for hundred-thousands of deployments/jobs. Ensured a 99.99% system up-time, supporting seamless operations and customer satisfaction."
+          ]
+        },
+        {
+          "company": "Alliant Insurance Services, Inc.",
+          "start_date": "July 2020",
+          "end_date": "April 2022",
+          "title": "Software Engineer",
+          "location": "NYC, NY",
+          "responsibilities": [
+            "Led key security initiatives to enhance application security, including implementing Penetration Test Remediation Solutions, reducing vulnerabilities by 60%, Data Masking in non-production environments to protect over 50 million sensitive records, and deploying Source Code Analyzer tools that enforced best practices across entire code base, safeguarding critical information.",
+            "Generated and analyzed data reports from over 15 million records, conducted data migrations across databases, and performed error analysis using SQL Server, T-SQL, PowerBI, and the Google Analytics Reporting API, leading to a 15% reduction in data discrepancies and enabling more accurate business insights."
+          ]
+        }
+      ],
+      "technical_skills": [
+        "C#",
+        "Java",
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "C/C++",
+        ".NET",
+        "PowerShell",
+        "Spring",
+        "React.js",
+        "Angular",
+        "Django",
+        "Flask",
+        "CI/CD",
+        "Git",
+        "SQL Server",
+        "MySQL",
+        "Kusto Query",
+        "MongoDB",
+        "IOS Development",
+        "Azure Tools",
+        "AWS"
+      ],
+      "education": {
+        "institution": "Case Western Reserve University",
+        "degree": "Bachelor\u2019s Degree in Computer Science and Economics",
+        "start_date": "August 2016",
+        "end_date": "May 2020",
+        "location": "Cleveland, OH"
+      },
+      "resume_id": "Astrid_resume"
+    },
+    {
+      "name": "Amanda",
+      "contact": {
+        "email": "a.taylor@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Bellevue, WA",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "title": "Backend Software Engineer",
+          "company": "Smartsheet",
+          "location": "Bellevue, WA",
+          "duration": "2022 - current",
+          "responsibilities": [
+            "Led the migration of a legacy system to AWS, reducing server costs by $42,983 per year",
+            "Developed backend APIs with Django, increasing transaction processing speed by 21%",
+            "Managed CI/CD pipelines using Jenkins, reducing deployment times by 31 minutes per release",
+            "Analyzed system performance using Python scripts, identifying and resolving bottlenecks that improved response times by 17%",
+            "Systematized database indexing in PostgreSQL, decreasing query response times by 19%",
+            "Supervised the setup of Postman collections for API testing, which streamlined the QA process and bolstered testing efficiency",
+            "Overhauled the existing Docker container strategy, resulting in a 21% increase in application performance",
+            "Persuaded the team to transition to Visual Studio Code, enhancing development speed and collaboration",
+            "Conducted training sessions that led to a 23% improvement in junior developers' coding efficiency"
+          ]
+        },
+        {
+          "title": "Junior Backend Developer",
+          "company": "Redfin",
+          "location": "Seattle, WA",
+          "duration": "2017 - 2019",
+          "responsibilities": [
+            "Negotiated with cloud service providers, securing better pricing agreements that saved the company $5,817 per year",
+            "Spearheaded the implementation of Git for source control, minimizing deployment issues by 14%",
+            "Analyzed data access patterns using MongoDB's built-in tools, optimizing database performance and reducing query times by 12%",
+            "Overhauled legacy code, achieving an 11% reduction in technical debt and enhancing system performance and reliability"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field_of_study": "Computer Science and Engineering",
+          "institution": "University of Washington",
+          "location": "Seattle, WA",
+          "duration": "2014 - 2017"
+        },
+        {
+          "degree": "Associate Software Engineer",
+          "institution": "Avalara",
+          "location": "Seattle, WA",
+          "duration": "2019 - 2022"
+        }
+      ],
+      "skills": [
+        "Visual Studio Code",
+        "Git",
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "MongoDB",
+        "Postman",
+        "Docker",
+        "AWS",
+        "Jenkins"
+      ],
+      "resume_id": "backend-software-engineer-resume-example"
+    },
+    {
+      "name": "Richard Tiger",
+      "contact": {
+        "phone": "(585) XXX-XXXX",
+        "email": "Name@gmail.com",
+        "linkedin": "www.linkedin.com/in/name",
+        "github": "GitHub account"
+      },
+      "career_summary": "Dedicated Senior Software Engineer with over twenty-five years\u2019 experience in all phases of computer software design and development in high technology environments. Experienced in both Embedded System Level Software and Applications Level Software. Led software development teams that consistently provide software products that meet, or exceed, overall customer expectations.",
+      "computer_skills": {
+        "languages": [
+          "C++",
+          "C",
+          "XML",
+          "Intel Assembler",
+          "Motorola Assembler",
+          "PLM/86",
+          "Java",
+          "COBOL",
+          "FORTRAN",
+          "Basic"
+        ],
+        "operating_systems": [
+          "MS Windows Vista",
+          "XP",
+          "2000",
+          "NT",
+          "9x",
+          "Mac OS X",
+          "Solaris",
+          "HP/UX",
+          "MS/PC DOS",
+          "MTOS",
+          "VAX/VMS",
+          "UNIX",
+          "QNX",
+          "Linux",
+          "CCI PERPOS"
+        ],
+        "packages_tools": [
+          "Visual Studio .NET",
+          "Adobe Acrobat SDK",
+          "Orbix (CORBA)",
+          "MS FrontPage",
+          "Windows Multi-Threaded applications",
+          "Rational Rose",
+          "Clear Case",
+          "Visual Source Safe",
+          "InstallShield",
+          "Parallels",
+          "MS Project"
+        ],
+        "windows": [
+          ".NET Framework",
+          "MFC",
+          "COM",
+          "Win32",
+          "Twain/ISIS Scanner Drivers"
+        ],
+        "hardware": [
+          "IBM PC",
+          "Apple Intel Mac",
+          "Sun Ultra Workstation",
+          "HP Workstation",
+          "DEC VAX",
+          "CCI-632FT"
+        ]
+      },
+      "instruction": "Developed and taught a C# programming language course for GE Consulting Services and Greece Central School District Continuing Education Department.",
+      "experience": [
+        {
+          "company": "COMPANY NAME",
+          "location": "Rochester, New York",
+          "years": "2007 - 2010",
+          "title": "Senior Software Engineering Consultant",
+          "responsibilities": [
+            "Responsible for the design, and implementation, of major enhancements and fixes to the AutoVue Innova Blood Analysis system.",
+            "Analyzed customer data to determine problem cause in order to determine corrective actions required.",
+            "Provided technical support to Product Testing and Quality Assurance Group."
+          ],
+          "accomplishments": [
+            "Deliverables three months ahead of schedule.",
+            "Improved collaboration between marketing and engineering departments."
+          ]
+        },
+        {
+          "company": "COMPANY NAME",
+          "location": "Rochester, New York",
+          "years": "1997 - 2007",
+          "title": "Senior Software Engineer",
+          "responsibilities": [
+            "Created functional requirements and design & test specifications associated with the development of specific software subsystems of high speed, high volume, digital printers, and a 65 PPM Production Scanner.",
+            "Designed, coded and tested major enhancements and fixes to software components.",
+            "Analyzed customer data to determine problem cause in order to determine corrective actions required."
+          ],
+          "accomplishments": [
+            "35% increase in productivity.",
+            "Marked process improvement of analyzer system."
+          ],
+          "projects": [
+            {
+              "title": "Project Lead (2003 \u2013 2007)",
+              "description": "Managed the Imposition Viewer/Content Edit module of the Digital Front End for the NexPress 2100 family Color Printer.",
+              "results": "$1 million in cost savings to client."
+            },
+            {
+              "title": "Sr. Software Engineer (2005 \u2013 2007)",
+              "description": "Designed and implemented major enhancements and fixes to the Job Ticketing Subsystem of the SmartBoard Image Processing system."
+            },
+            {
+              "title": "Project Lead (1997 \u2013 2003)",
+              "description": "Implemented all Front End Software Group scanner related interface software products."
+            }
+          ]
+        },
+        {
+          "company": "COMPANY NAME",
+          "location": "Rochester, New York",
+          "years": "1990 - 1997",
+          "title": "Senior Software Engineer",
+          "responsibilities": [
+            "Performed assignments that required the application of engineering principles, techniques, and procedures in an ISO-9001 Organization.",
+            "Duties included the creation of functional requirements and design & test specifications associated with the introduction and maintenance of a complex proprietary Process Control System."
+          ],
+          "projects": [
+            {
+              "title": "Technical Project Lead",
+              "description": "Development, implementation and testing of the embedded ABB MOD 300 Ethernet drivers and control firmware."
+            },
+            {
+              "title": "Project Lead",
+              "description": "Development, maintenance and enhancement of several ABB MOD 300 Based communications interfaces."
+            }
+          ]
+        },
+        {
+          "company": "COMPANY NAME",
+          "location": "Rochester, New York",
+          "years": "1983 - 1990",
+          "title": "Senior Software Engineering Consultant/Site Supervisor",
+          "clients": [
+            "Eastman Kodak Company, Rochester NY, Copy Products Division: 1989 - 1990",
+            "Computer Consoles, Inc,. Rochester NY, Core Products Group: 1986 - 1989",
+            "Eastman Kodak Co., KAD, TechNet Quality Management System Group: 1984 - 1986",
+            "Computer Consoles, Inc. Engineering Interfaces Group: November 1983 to 1984"
+          ]
+        }
+      ],
+      "professional_associations": [
+        {
+          "organization": "ACM, Rochester NY Chapter",
+          "years": "1997 \u2013 Present",
+          "role": "Treasurer, 2009 - Present"
+        },
+        {
+          "organization": "IEEE, Rochester NY Chapter",
+          "years": "2002 \u2013 Present"
+        }
+      ],
+      "education": {
+        "institution": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+        "location": "Rochester NY",
+        "degree": "BS Dual Major",
+        "fields": [
+          "Computer Science",
+          "Business Administration",
+          "Marketing"
+        ]
+      },
+      "resume_id": "Computer Science Resume"
+    },
+    {
+      "name": "Renata Voss",
+      "title": "Director of Software Engineering",
+      "contact": {
+        "email": "r.voss@email.com",
+        "phone": "(123) 456-7890",
+        "location": "San Jose, CA"
+      },
+      "work_experience": [
+        {
+          "job_title": "Director of Software Engineering",
+          "company": "Adobe",
+          "location": "San Jose, CA",
+          "duration": "2019 - current",
+          "responsibilities": [
+            "Managed cross-functional team on Jira, increasing production velocity by 23%",
+            "Integrated IDPS into systems, which decreased instances of successful socially engineered attacks to less than 1%",
+            "Boosted processes through Jenkins-backed workflows that improved the quality of outcomes by a 54% margin",
+            "Achieved a 97% Net Promoter Score and a 4.7 out of 5 rating from end users for error-free end products"
+          ]
+        },
+        {
+          "job_title": "Senior Engineering Manager",
+          "company": "PayPal",
+          "location": "San Jose, CA",
+          "duration": "2014 - 2019",
+          "responsibilities": [
+            "Resolved app incompatibility issues with some mobile devices using AWS, reducing user-reporting incidences by 92%",
+            "Incorporated agile best practices into core processes, which reduced average production cycle time by 17% across projects",
+            "Decreased mobile app density defects by 31% by integrating React Native UI elements",
+            "Worked within budget and timelines to deliver user-centric solutions and maintained a user satisfaction rating of 94% through customer feedback surveys"
+          ]
+        },
+        {
+          "job_title": "Principal Software Engineer",
+          "company": "Oracle",
+          "location": "Santa Clara, CA",
+          "duration": "2010 - 2014",
+          "responsibilities": [
+            "Optimized storage and dataset processing through Apache Hadoop, resulting in a 47% increase in concurrent user capacity",
+            "Automated web applications testing across browsers with Selenium that shrank user-reported defects by 68%",
+            "Led a team of 4 software engineers to create and upgrade databases on Oracle with a consistent 98% on-time delivery rate",
+            "Implemented cloud infrastructure optimizations, which decreased monthly hosting costs by 28% and boosted system reliability"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Software Engineering",
+        "institution": "California Institute of Technology",
+        "location": "Pasadena, CA",
+        "years": "2006 - 2010"
+      },
+      "skills": [
+        "JIRA",
+        "Amazon Web Services (AWS)",
+        "Jenkins",
+        "TensorFlow",
+        "Spring Boot",
+        "Apache Hadoop",
+        "IDPS",
+        "React Native",
+        "Selenium"
+      ],
+      "resume_id": "director-of-software-engineering-resume-example"
+    },
+    {
+      "name": "Individual",
+      "objective": "Individual with solid statistical and programming background, seeking a full-time data scientist position",
+      "education": [
+        {
+          "institution": "University of Pennsylvania",
+          "location": "Philadelphia, PA",
+          "degree": "M.S. in Statistics",
+          "expected_graduation": "May 2020"
+        },
+        {
+          "institution": "New York University",
+          "location": "New York, NY",
+          "degree": "B.A. in Mathematics",
+          "graduation_date": "May 2018",
+          "coursework": [
+            "Machine Learning",
+            "Database",
+            "Computer Vision",
+            "Statistics & Probability",
+            "Data Structure and Algorithm"
+          ]
+        }
+      ],
+      "professional_experience": [
+        {
+          "company": "MD.ai",
+          "position": "Intern Data Scientist",
+          "duration": "May 2019 \u2013 Dec 2019",
+          "description": "A fast-growing medical machine learning start-up based in NY that closely collaborates with hospitals and top research institutions.",
+          "responsibilities": [
+            "Built an automatic query pipeline to calculate KPIs for company\u2019s website using SQL and created a dashboard on Tableau, enabling real-time metrics tracking and efficient analytics.",
+            "Collaborated with the product designer to build a new feature, a \u2018one-click\u2019 boom for easier medical photo annotation and conducted the A/B testing on the UI design of new feature using React and Ruby on Rails, improving the CTR by 8%.",
+            "Performed image pre-processing like resizing, smoothing, augmentation, and built a CNN-XGBoost classifier on PyTorch to predict the quality of Ophthalmic image, reaching 0.95 F1 score and implemented in the company\u2019s eye treatment system.",
+            "Built and presented the whole framework of a segmentation model to detect brain from head CT using Mask RCNN with 0.88 Mean Average Precision."
+          ]
+        },
+        {
+          "company": "Tencent",
+          "position": "Data Science Intern - IoT Team",
+          "duration": "June 2018 \u2013 Aug 2018",
+          "description": "World's largest video game company and the second-largest social media company with $135B market cap.",
+          "responsibilities": [
+            "Built a SARIMA model to forecast the daily energy consumption for each area in the Tencent headquarters, an IoT-enabled smart building, reaching 0.08 in MAPE.",
+            "Evaluated recommendations to reduce energy consumption like auto hibernation of equipment, enhancing natural light.",
+            "Created a dashboard on Power BI to monitor elevator operation in Tencent headquarters and track key statistics, conducted a dive-deep analysis, generated a comprehensive traffic report, and modified the operation plan in the peak hour, reducing the average waiting time by 3.2s.",
+            "Developed an algorithm to tackle the discontinuity in real-time floor data returned by elevator API based on elevator movement physics simulation, deployed in elevator monitorization system of Tencent headquarters."
+          ]
+        },
+        {
+          "company": "China Securities",
+          "position": "Quantitative Research Intern - Research & Development Team",
+          "duration": "June 2017 \u2013 Aug 2017",
+          "description": "Leading securities company in China with $34B total assets.",
+          "responsibilities": [
+            "Constructed a new backtester using Python and implemented a simple trading algorithm based on Markovian Portfolio Optimization theory, backtesting on the historical market data.",
+            "Built an LSTM network using Keras to predict the stock price and fine-tuned parameters like amount of layers, nodes, learning rate, and dropout ratio, improving the RMSE by 43% compared to the current ARIMA model."
+          ]
+        }
+      ],
+      "selected_projects": [
+        {
+          "title": "Shanghai Home Price Evaluation Model",
+          "institution": "New York University",
+          "description": [
+            "Collected data with web-scraping on the largest online housing agency in China using Python.",
+            "Created a feature, distance between the unit and the nearest public transportation by filtering keywords and running K-means on the longitude and latitude of the apartment.",
+            "Built a stacked model using MLP, LightGBM and Random Forest regressor to estimate the home price in Shanghai, getting 0.96 R-squared score and 0.12 RMSE score."
+          ]
+        }
+      ],
+      "skills": {
+        "languages": [
+          "Python (>10,000 lines)",
+          "SQL (>5,000 lines)",
+          "R",
+          "Java",
+          "SAS"
+        ],
+        "ml_toolkits": [
+          "Scikit-Learn",
+          "PyTorch",
+          "TensorFlow",
+          "SciPy",
+          "NumPy",
+          "forecast"
+        ],
+        "big_data_toolkits": [
+          "Spark",
+          "HDFS",
+          "MapReduce",
+          "Qubole",
+          "AWS",
+          "GCP"
+        ],
+        "data_visualization": [
+          "Matplotlib",
+          "Seaborn",
+          "Tableau",
+          "Power BI",
+          "R Shiny",
+          "Plotly",
+          "Dash",
+          "ggplot"
+        ]
+      },
+      "resume_id": "ds temp 1.docx"
+    },
+    {
+      "name": "SALVADOR SANZ",
+      "title": "Embedded Software Engineer",
+      "contact": {
+        "email": "salvador.sanz@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Dover, DE",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Senior Embedded Software Engineer",
+          "company": "Dice",
+          "location": "Dover, DE",
+          "start_date": "2019",
+          "end_date": "current",
+          "responsibilities": [
+            "Contributed to the design of software system architecture to establish a stable foundation for 25+ applications",
+            "Managed 3 long-term development programs and 6 short-cycle custom design tasks",
+            "Owned 100% of technical leadership responsibilities for product feature research and development",
+            "Spearheaded all aspects of product development from system design to testing",
+            "Architected, implemented, and maintained 50+ complex firmware/software designs",
+            "Wrote clean, robust, testable, reusable, and sustainable code tailored for embedded systems",
+            "Worked with 4 multi-functional teams to determine software architecture and specifications",
+            "Developed and maintained 12+ engineering tools used to debug, analyze, and test embedded products"
+          ]
+        },
+        {
+          "job_title": "Software Engineer III, Embedded Systems",
+          "company": "Google",
+          "location": "Dover, DE",
+          "start_date": "2011",
+          "end_date": "2015",
+          "responsibilities": [
+            "Collaborated with 3 multidisciplinary teams to build verification plans, frameworks, tools, and tests",
+            "Architected and developed 10+ tools and infrastructures to support efficient building, debugging, and deployment",
+            "Reviewed and updated 300+ software requirements and designs for verifiability",
+            "Coordinated 100% of software testing resources (internal & external) and provided schedule estimates"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field_of_study": "Computer Science",
+          "institution": "Carnegie Mellon University",
+          "location": "Pittsburgh, PA",
+          "start_date": "2007",
+          "end_date": "2011"
+        }
+      ],
+      "skills": [
+        "Python",
+        "Perl",
+        "RISC CPUA",
+        "Operating System Hardware",
+        "Research & Development",
+        "Embedded",
+        "RTOS",
+        "Software Engineer",
+        "JTAG/SWD",
+        "C/C++",
+        "QEMU"
+      ],
+      "career_summary": "Proven and hard-working embedded software engineer with 10+ years of experience. My passion is combining clean and scalable code with cutting-edge physical hardware, and I am eager to solve creative problems for Oracle consumers to create an improved user experience.",
+      "resume_id": "embedded-software-engineer-resume-example"
+    },
+    {
+      "name": "AMIE CLAUDE",
+      "title": "Software Engineer",
+      "contact": {
+        "email": "amieclaude@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Pittsburgh, PA",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Engineer Intern",
+          "company": "DICK's Sporting Goods",
+          "location": "Pittsburgh, PA",
+          "start_date": "May 2020",
+          "end_date": "current",
+          "responsibilities": [
+            "Assigned to e-commerce team, and participated in designing improved software using algorithms to match users to products, boosting sales by 16%",
+            "Participated in code reviews with product team, and gained feedback from senior engineers and experience in writing custom, scalable code",
+            "Partnered with 2 interns to understand user stories, and reported findings, goals, and progress to senior engineer",
+            "Tested and finetuned applications, reducing the instances of bugs by 7%",
+            "Ensured all technical issues were ticketed, responding to Tier 1 tickets and escalating issues at Tier 2",
+            "Presented software development and lifecycle reports to CTO and CEO with 2 other interns, receiving recognition for design ideas and implementation"
+          ]
+        },
+        {
+          "job_title": "Online Tutor",
+          "company": "Easyke",
+          "location": "Pittsburgh, PA",
+          "start_date": "December 2016",
+          "end_date": "April 2020",
+          "responsibilities": [
+            "Planned lessons for small groups of 4-6 students, providing 3 hours per week of targeted math and science",
+            "Communicated with students to discuss academic needs and goals in order to adjust lessons and assessments",
+            "Provided feedback on assignments, and retaught trouble areas until students reached 90% mastery",
+            "Engaged students in 1:1 discussions, small group discussions, and breakout sessions, utilizing various discussion methods to actively retain attention across a variety of learning styles",
+            "Wrote progress reports and feedback to present to students and administration, working with admin to adjust student plans as needed",
+            "Built in office hours for 2 hours per week for students to check-in and receive one-on-one help, which boosted their mastery level by 13%"
+          ]
+        }
+      ],
+      "career_objective": "Problem solver and strong communicator eager to prove my value and talent at an emerging company like Revature. Motivated to advance and expand my skill set through targeted mentorship and challenging projects.",
+      "education": {
+        "degree": "B.S.",
+        "field_of_study": "Computer Science",
+        "institution": "University of Pittsburgh",
+        "location": "Pittsburgh, PA",
+        "start_date": "September 2016",
+        "end_date": "April 2020",
+        "gpa": 3.7
+      },
+      "relevant_courses": [
+        "Data Structures",
+        "Algorithm Design",
+        "Database Management Systems",
+        "Computer Vision",
+        "Software Design Methodology"
+      ],
+      "skills": {
+        "advanced": [
+          "Python (Django)",
+          "Java",
+          "Unix",
+          "Git"
+        ],
+        "familiar": [
+          "Javascript",
+          "SQL",
+          "HTML/CSS"
+        ]
+      },
+      "resume_id": "entrylevel-software-engineer-resume-example"
+    },
+    {
+      "name": "Kian Woods",
+      "title": "Experienced Software Engineer",
+      "contact": {
+        "email": "kianwoods@email.com",
+        "phone": "(123) 456-7890"
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Engineer",
+          "company": "Duolingo",
+          "location": "Pittsburgh, PA",
+          "dates": "August 2020 - current",
+          "responsibilities": [
+            "Optimized machine learning algorithms with a C++ library for a 38% boost to the efficiency of language learning models.",
+            "Employed PyTorch to develop and improve the AI-driven language pronunciation feedback system.",
+            "Used PyCharm as the primary IDE to increase development efficiency for a 27% reduction in bug-fixing time.",
+            "Worked with data science team to integrate machine learning algorithms to improve language model accuracy."
+          ]
+        },
+        {
+          "job_title": "DevOps Engineer",
+          "company": "PNC Financial Services",
+          "location": "Pittsburgh, PA",
+          "dates": "June 2017 - June 2020",
+          "responsibilities": [
+            "Streamlined deployment process by implementing CircleCI, reducing build times by 34% and increasing deployment frequency by 61%.",
+            "Led a team to migrate the company's database from MySQL to Microsoft SQL Server and to decrease query times by 21%.",
+            "Developed custom Mercurial hooks to enforce coding standards, reducing code review time by 13%.",
+            "Improved software release pipeline security by automating vulnerability scanning and patching."
+          ]
+        },
+        {
+          "job_title": "Software Developer Intern",
+          "company": "Vanguard",
+          "location": "Remote",
+          "dates": "2016 - 2017",
+          "responsibilities": [
+            "Assisted in refactoring C++ code, helping to cut maintenance by 14% and improving app performance.",
+            "Conducted code reviews under 2 senior developers.",
+            "Helped migrate applications to AWS and Azure, which cut infrastructure costs by 12% and aided application availability.",
+            "Built a custom notification system with JavaScript and WebSocket, increasing user engagement by 23% and improving real-time communication capabilities."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "Carnegie Mellon University",
+        "dates": "2013 - 2017",
+        "location": "Pittsburgh, PA"
+      },
+      "skills": [
+        "PyCharm",
+        "Mercurial",
+        "Ruby on Rails",
+        "Microsoft SQL",
+        "Google Cloud Platform",
+        "PHPUnit",
+        "OpenShift",
+        "CircleCI",
+        "C++",
+        "PyTorch"
+      ],
+      "certifications": [
+        {
+          "name": "Certified Software Development Associate",
+          "issuer": "IEEE"
+        }
+      ],
+      "resume_id": "experienced-software-engineer-resume-example"
+    },
+    {
+      "name": "Selene Archer",
+      "contact": {
+        "email": "s.archer@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Seattle, WA"
+      },
+      "work_experience": [
+        {
+          "title": "Software Engineer",
+          "company": "Google",
+          "duration": "2023 - current",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Maintained front-end components of Google\u2019s help page using React, boosting monthly user engagement metrics by 21%.",
+            "Used Visual Studio Code for quick code editing, completing coding tasks 2 quicker on average.",
+            "Developed and deployed 8 extensions with the help of AWS, expanding Google Chrome\u2019s user base by 13%.",
+            "Automated various testing and deployment processes on Jenkins, eliminating manual intervention on 64% of testing tasks."
+          ]
+        },
+        {
+          "title": "Junior Software Engineer",
+          "company": "Expedia Group",
+          "duration": "2019 - 2023",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Integrated Prometheus alerts for proactive system monitoring, reducing incident response time by 6 seconds.",
+            "Leveraged Git for version control, ensuring seamless collaboration among all junior developers and lowering merge conflict incidents by 11%.",
+            "Assisted in the development of a real-time booking system, enabling customers to book domestic and international flight tickets 7 minutes quicker.",
+            "Developed Python scripts to scrape information from various websites, shortening the average data extraction time by 4 seconds."
+          ]
+        },
+        {
+          "title": "Intern Software Engineer",
+          "company": "T-Mobile USA",
+          "duration": "2018 - 2019",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Worked alongside the DevOps team to integrate Docker into existing CI/CD pipelines, mitigating failed deployment cases by 12%.",
+            "Held database health checks and performance tuning on PostgreSQL, decreasing latency by 26 ms.",
+            "Helped senior engineers in migrating data from legacy systems to Hadoop, cutting down T-Mobile\u2019s data storage costs by $36,558.",
+            "Resolved 19 bugs and issues reported by the QA team, improving the stability of the main website."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "University of Washington",
+        "duration": "2014 - 2018",
+        "location": "Seattle, WA"
+      },
+      "skills": [
+        "Python",
+        "Git",
+        "Visual Studio Code",
+        "AWS",
+        "Docker",
+        "Jenkins",
+        "PostgreSQL",
+        "Apache Hadoop",
+        "Prometheus",
+        "React"
+      ],
+      "resume_id": "faang-software-engineer-resume-example"
+    },
+    {
+      "name": "David Nguyen",
+      "title": "Freelance Software Engineer",
+      "contact": {
+        "email": "d.nguyen@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Madison, WI",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Freelance Software Engineer",
+          "company": "Raven Software",
+          "location": "Madison, WI",
+          "duration": "2023 - current",
+          "responsibilities": [
+            "Advocated the use of Visual Studio Code to develop and deploy Python scripts that automated data processing tasks",
+            "Built cloud-based storage solutions handling over 12TB of data storage using AWS Lambda and S3",
+            "Implemented React-based user interfaces for internal tools",
+            "Managed version control using Git, contributing to 52 pull requests and stabilizing release cycles"
+          ]
+        },
+        {
+          "job_title": "Junior Software Developer",
+          "company": "Exact Sciences",
+          "location": "Madison, WI",
+          "duration": "2020 - 2023",
+          "responsibilities": [
+            "Engineered Django REST APIs for patient data system integration, handling 1,060+ queries/day",
+            "Contributed to knowledge-sharing sessions, helping new developers integrate into 13 members quickly",
+            "Automated testing workflows with Selenium, executing 342 tests across four browsers to ensure app reliability",
+            "Collaborated with team members using Trello to manage sprints, aiding the timely delivery of nine feature updates"
+          ]
+        },
+        {
+          "job_title": "IT Support Technician",
+          "company": "Epic Systems Corporation",
+          "location": "Madison, WI",
+          "duration": "2018 - 2020",
+          "responsibilities": [
+            "Administered Docker containers to streamline the deployment of test environments",
+            "Troubleshot and resolved hardware and software issues for 18 employees, trimming downtime by 18%",
+            "Conducted regular database management tasks in MySQL, optimizing performance for over 43 critical healthcare apps",
+            "Maintained detailed incident logs to track recurring issues and ensure quicker resolution in future cases"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "University of Wisconsin",
+        "duration": "2014 - 2018"
+      },
+      "skills": [
+        "Python",
+        "Git",
+        "Visual Studio Code",
+        "Amazon Web Services",
+        "React",
+        "Django",
+        "MySQL",
+        "Trello",
+        "Selenium",
+        "Docker"
+      ],
+      "resume_id": "freelance-software-engineer-resume-example"
+    },
+    {
+      "name": "Xavier Rivera",
+      "title": "Front End Software Engineer",
+      "contact": {
+        "email": "x.rivera@email.com",
+        "phone": "(123) 456-7890",
+        "location": "San Francisco, CA",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Front End Software Engineer",
+          "company": "Asana",
+          "location": "San Francisco, CA",
+          "duration": "2021 - current",
+          "responsibilities": [
+            "Created responsive web designs using HTML5, reducing Asana\u2019s main website load time by 1.2 seconds.",
+            "Optimized front-end build processes with Webpack, achieving a 2-week decrease in build time, leading to faster deployment cycles.",
+            "Automated front-end testing with the help of Jest, growing average unit test coverage from 89% to 95%.",
+            "Collaborated on the migration of legacy code to modern JavaScript frameworks, transitioning 172K+ lines of code to React.js."
+          ]
+        },
+        {
+          "job_title": "IT Support Specialist",
+          "company": "Slack",
+          "location": "San Francisco, CA",
+          "duration": "2018 - 2021",
+          "responsibilities": [
+            "Assisted in redesigning Slack\u2019s landing pages on Bootstrap, increasing mobile user engagement rates by 26% within two months.",
+            "Developed a custom Gulp plugin to automate digital asset optimization, directly improving the main website\u2019s annual SEO rankings.",
+            "Integrated Sass functions into the development workflow, enabling concise styling features that helped developers use variables and complete front-end code 2 days quicker.",
+            "Conducted A/B testing on multiple front-end designs, which helped the team find an 8% rise in positive feedback for the tested features as per feedback emails."
+          ]
+        },
+        {
+          "job_title": "Technical Support Specialist",
+          "company": "Dropbox",
+          "location": "San Francisco, CA",
+          "duration": "2017 - 2018",
+          "responsibilities": [
+            "Maintained 39 batch scripts using Git to automate routine backup and sync tasks, allowing senior engineers to complete 4 more tasks every day.",
+            "Authored a detailed npm package guideline document, cutting down compatibility issues across 2 development environments.",
+            "Used automated error tracking and resolution processes, lowering annual reported downtime incidents by 11%.",
+            "Held 14 tech talks on the effective use of Visual Studio Code, helping interns learn how to enhance their overall code quality."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "Stanford University",
+        "location": "Stanford, CA",
+        "duration": "2013 - 2017"
+      },
+      "skills": [
+        "HTML5",
+        "React.js",
+        "Git",
+        "Sass",
+        "Slack",
+        "Webpack",
+        "npm (Node Package Manager)",
+        "Visual Studio Code",
+        "Jest",
+        "Gulp",
+        "Bootstrap"
+      ],
+      "resume_id": "front-end-software-engineer-resume-example"
+    },
+    {
+      "name": "KIAN MARSHALL",
+      "title": "Software Engineer",
+      "email": "kianmarsh@email.com",
+      "phone": "(123) 456-7890",
+      "location": "Redmond, WA",
+      "work_experience": [
+        {
+          "job_title": "Software Engineer",
+          "company": "Microsoft",
+          "location": "Redmond, WA",
+          "start_date": "August 2018",
+          "end_date": "current",
+          "responsibilities": [
+            "Developed and optimized a Microsoft Office Suite feature with JavaScript to increase user efficiency by 15%.",
+            "Implemented a microservice architecture for a cloud-based product, increasing system reliability and reducing deployment time by 16%.",
+            "Spearheaded the redesigning of a key Windows OS component to see improved boot time by 29%.",
+            "Led the migration of a critical application from on-premise to Azure cloud infrastructure, reducing operational costs by 32%.",
+            "Implemented a CI/CD pipeline for a key product, reducing release cycle times by 26%."
+          ]
+        },
+        {
+          "job_title": "Junior Developer",
+          "company": "Amazon",
+          "location": "Seattle, WA",
+          "start_date": "May 2015",
+          "end_date": "June 2018",
+          "responsibilities": [
+            "Built a custom integration between Amazon's internal tools and Google Cloud Storage via JavaScript, enhancing team productivity by 15%.",
+            "Improved security of a web application by integrating Google Cloud Armor, reducing the risk of DDoS attacks by 63%.",
+            "Reduced data retrieval times with Google Cloud Storage to store and manage large data sets for internal analytics project.",
+            "Optimized the performance of a web application using Google Cloud Run, which boosted concurrent users by 27%."
+          ]
+        },
+        {
+          "job_title": "Intern",
+          "company": "Amazon",
+          "location": "Seattle, WA",
+          "start_date": "May 2014",
+          "end_date": "May 2015",
+          "responsibilities": [
+            "Conducted market research and competitive analysis for a product launch, offering insights that boosted sales by 19%.",
+            "Participated in the QA testing process for a new application, identifying and reporting 4 critical bugs.",
+            "Oversaw user testing for a new feature, gathering feedback that contributed to a 26% improvement in usability.",
+            "Shadowed 3 senior team members to gain hands-on experience in project management and software development."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.S.",
+          "field_of_study": "Computer Science & Engineering",
+          "institution": "University of Washington",
+          "location": "Seattle, WA",
+          "start_date": "2014",
+          "end_date": "2016"
+        },
+        {
+          "degree": "B.S.",
+          "field_of_study": "Computer Science",
+          "institution": "Massachusetts Institute of Technology (MIT)",
+          "location": "Cambridge, MA",
+          "start_date": "2010",
+          "end_date": "2014"
+        }
+      ],
+      "skills": [
+        "JavaScript",
+        "Google Cloud SDK",
+        "Google Cloud Platform",
+        "Google Cloud Run",
+        "Google Cloud Natural Language API",
+        "React",
+        "Slack",
+        "Google Cloud Armor",
+        "Prometheus"
+      ],
+      "certifications": [
+        {
+          "name": "Google Associate Android Developer Certification"
+        }
+      ],
+      "resume_id": "google-software-engineer-resume-example"
+    },
+    {
+      "name": "Hao Wang",
+      "contact": {
+        "address": "3333 Forbes Avenue Unit 1174, PITTSBURGH, United States",
+        "phone": "8484371602",
+        "email": "haw129@pitt.edu"
+      },
+      "education": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University of Pittsburgh",
+          "location": "Pittsburgh, PA",
+          "start_date": "Aug 2021",
+          "end_date": "May 2025"
+        }
+      ],
+      "internships": [
+        {
+          "title": "Medical AI Intern",
+          "company": "Artery Flow",
+          "start_date": "Jun 2024",
+          "end_date": "Aug 2024",
+          "responsibilities": [
+            "Engineered a C/C++ preprocessing pipeline to convert 300+ CT/DSA/CTA/MRA scans into accurate 3D cerebrovascular models\u2014custom vessel-segmentation algorithms achieved 95% mesh fidelity and cut preprocessing time by 30%.",
+            "Developed an annotation toolkit to automate ROI extraction and metadata tagging for over 200+ brain-vessel cases, reducing manual labeling effort by 60% and delivering consistent, production-ready training datasets.",
+            "Integrated 3D models and annotated data into Artery Flow\u2019s AI diagnostic platform, accelerating model training cycles by 25% and boosting cerebrovascular anomaly detection accuracy by 15%."
+          ]
+        },
+        {
+          "title": "Software Engineer Intern",
+          "company": "DANDYKING",
+          "start_date": "May 2023",
+          "end_date": "Aug 2023",
+          "responsibilities": [
+            "Engineered robust back-end infrastructure using Java and Spring Boot, implementing RESTful APIs with Spring Web MVC. Achieved handling of 1000+ requests/second.",
+            "Optimized data handling with MyBatis, DynamoDB, Redis, and RabbitMQ, ensuring real-time updates for inventory and transactions. Supported 10,000+ concurrent users during peak hours with efficient message queuing and event-driven architecture."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Treefficiency",
+          "description": "Senior Capstone Project",
+          "details": [
+            "Architected and implemented a gamified virtual forest in Flutter, translating user actions (trivia & real-world tasks) into a four-stage tree-growth state machine; managed state with Provider to ensure sub-100 ms UI updates under heavy load.",
+            "Engineered Firestore-backed persistence with offline sync and custom security rules, delivering a 'My Forest' dashboard that tracked 1,000+ growth events across 200 pilot users\u2014achieving 85% weekly retention during beta.",
+            "Built a real-time trivia leaderboard and Cloud Functions-driven daily challenge scheduler, driving a 40% lift in weekly active users and tripling daily session starts over a four-week trial."
+          ]
+        },
+        {
+          "title": "FortreeDB CLI",
+          "description": "Database Development Lifecycle",
+          "details": [
+            "Spearheaded the full database development lifecycle\u2014conceptual design through implementation\u2014for a 10-table, 3NF schema modeling forests, species, volunteers, sensors, and measurements in an IoT forest-monitoring system.",
+            "Designed SQL and PL/pgSQL routines for schema evolution and bulk data operations\u2014commands like addaForest and assign Volunteer\u2014using transaction-scoped DML to enforce referential integrity across 50 K+ records.",
+            "Built a responsive Java CLI atop JDBC for real-time database interaction: executed complex queries over sensor data with sub-200 ms latency and enforced ACID compliance; integrated end-to-end Java + SQL tests into GitHub Actions for continuous validation."
+          ]
+        },
+        {
+          "title": "Real-Time Chat Room Web App",
+          "details": [
+            "Built a Flask-backed REST API with SQLAlchemy ORM to manage users, chat rooms, and messages, ensuring ACID compliance and clean schema design.",
+            "Developed a JavaScript front-end using fetch/JSON for 1s-interval AJAX polling\u2014only new messages fetched\u2014to deliver a smooth real-time chat experience without 'ghost' messages.",
+            "Implemented user authentication, chat-room creation/deletion, and graceful handling of room deletions for in-room users, demonstrating attention to UX and fault tolerance."
+          ]
+        }
+      ],
+      "skills": {
+        "programming_languages": [
+          "C",
+          "C++",
+          "Java",
+          "Python",
+          "JavaScript",
+          "Dart"
+        ],
+        "databases_and_storage": [
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Firebase (Firestore)",
+          "DynamoDB",
+          "Redis"
+        ],
+        "frameworks_and_libraries": [
+          "Spring Boot",
+          "Flask",
+          "React",
+          "Flutter",
+          "Provider",
+          "Node.js"
+        ],
+        "testing_and_qa": [
+          "JUnit",
+          "pytest",
+          "Selenium",
+          "Valgrind"
+        ]
+      },
+      "resume_id": "Hao_Wang_-_ (2)"
+    },
+    {
+      "name": "Yvonne Green",
+      "contact": {
+        "email": "y.green@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Boston, MA",
+        "linkedin": null
+      },
+      "work_experience": [
+        {
+          "title": "Java Software Engineer",
+          "company": "DraftKings",
+          "duration": "2022 - current",
+          "location": "Boston, MA",
+          "responsibilities": [
+            "Optimized existing Java-based landing pages, lowering load time by 46 ms while supporting 38K+ real-time users simultaneously.",
+            "Executed JUnit tests for new website functionalities, achieving an 83% pass rate on the first deployment.",
+            "Enhanced the main server\u2019s security using AWS security tools, resulting in a 12% decrease in potential security breaches.",
+            "Developed 2 REST APIs, successfully integrating with front-end and back-end systems and enabling seamless data flow across the company\u2019s app and website."
+          ]
+        },
+        {
+          "title": "Full-Stack Developer",
+          "company": "Akamai Technologies",
+          "duration": "2019 - 2022",
+          "location": "Cambridge, MA",
+          "responsibilities": [
+            "Worked with 4 colleagues to optimize cloud-based applications for 8 clients with the help of Docker, improving their system\u2019s response rate by 27%.",
+            "Automated build and test sequences on Jenkins, reducing time spent on weekly manual tasks by 5.6 hours.",
+            "Refined code quality across all projects by implementing and enforcing 2 style guides in Visual Studio Code.",
+            "Created an error logging and alerting system using React, slashing downtime instances by 17% with quick critical failure identification."
+          ]
+        },
+        {
+          "title": "Junior Software Developer",
+          "company": "HubSpot",
+          "duration": "2017 - 2019",
+          "location": "Cambridge, MA",
+          "responsibilities": [
+            "Assisted senior developers to maintain 6 MySQL databases, optimizing query performance by up to 22% which boosted the responsiveness of client-facing applications.",
+            "Contributed to fixing 11 bugs every month in HubSpot's SaaS platform, supporting high system stability.",
+            "Managed 75+ weekly tickets in Jira, achieving an average resolution time of less than 19 hours, meeting all the team's service level agreement (SLA) conditions.",
+            "Regularly helped in code merges and deployment on Git, securing a deployment success rate of 92% throughout tenure."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science and Engineering",
+        "institution": "Massachusetts Institute of Technology",
+        "duration": "2013 - 2017",
+        "location": "Cambridge, MA"
+      },
+      "skills": [
+        "Java",
+        "Git",
+        "Visual Studio Code",
+        "MySQL",
+        "AWS",
+        "Docker",
+        "Jenkins",
+        "React",
+        "JUnit",
+        "Jira"
+      ],
+      "resume_id": "java-software-engineer-resume-example"
+    },
+    {
+      "name": "ARIA FISCHER",
+      "title": "Junior Software Engineer",
+      "contact": {
+        "email": "a.fischer@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Southfield, MI",
+        "linkedin": "linkedin.com"
+      },
+      "career_objective": "A seasoned IT professional passionate about software development, seeking a junior software engineer role at Bosch. Eager to apply my experience with Eclipse and C++ to create high-quality software products that contribute to the company's engineering efforts.",
+      "work_experience": [
+        {
+          "job_title": "IT Support Technician",
+          "company": "Blue Cross Blue Shield of Michigan",
+          "location": "Detroit, MI",
+          "dates": "August 2020 - current",
+          "responsibilities": [
+            "Implemented Azure DevOps and Azure Storage cloud solutions, increasing infrastructure efficiency by 13%.",
+            "Migrated 54% of the organization's code repositories to Subversion (SVN) to streamline version control.",
+            "Resolved 20+ instances of software license non-compliance, saving around $54,000 in potential fines and penalties.",
+            "Automated 8 routine IT tasks using Selenium to free 11 hours of staff time on average per week."
+          ]
+        },
+        {
+          "job_title": "Technical Support Representative",
+          "company": "Comcast",
+          "location": "Ann Arbor, MI",
+          "dates": "December 2017 - June 2020",
+          "responsibilities": [
+            "Achieved a monthly customer satisfaction rating of 98%, ranking within the top 3% of Technical Support Representatives at Comcast.",
+            "Upsold Comcast services to Xfinity Internet customers, generating $21,000+ in additional annual revenue.",
+            "Contacted customers with scheduled maintenance updates, reducing incoming calls by 65% on average.",
+            "Handled 50+ support calls per day, addressing customer concerns related to product features and technical issues."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science and Engineering",
+        "institution": "University of Michigan",
+        "location": "Ann Arbor, MI",
+        "dates": "2013 - 2017"
+      },
+      "skills": [
+        "Eclipse",
+        "Subversion (SVN)",
+        "C++",
+        "React",
+        "PostgreSQL",
+        "Microsoft Azure",
+        "Selenium"
+      ],
+      "projects": [
+        {
+          "name": "StudySpot",
+          "description": "Used React to create a seamless user interface on Android and iOS apps, doubling monthly downloads in 7 months."
+        },
+        {
+          "name": "Code Repository Management System",
+          "description": "Implemented a code repository management system using Subversion, boosting code collaboration efficiency by 34%."
+        },
+        {
+          "name": "Data Security Implementation",
+          "description": "Enforced secure data transfer protocols and encryption mechanisms and ensured user data remained protected."
+        },
+        {
+          "name": "Analytics and Reporting Framework",
+          "description": "Introduced an analytics and reporting framework with Microsoft Azure, providing insights into user behavior and patterns."
+        }
+      ],
+      "certifications": [
+        "Certified Software Development Professional (CSDP)"
+      ],
+      "resume_id": "junior-software-engineer-resume-example"
+    },
+    {
+      "name": "Kun Wang",
+      "title": "Software Engineer",
+      "location": {
+        "city": "Seattle",
+        "country": "United States"
+      },
+      "contact": {
+        "phone": "2062454954",
+        "email": "kwang97527@gmail.com"
+      },
+      "education": [
+        {
+          "degree": "Master of Science in Computer Science",
+          "institution": "Northeastern University",
+          "start_date": "Jan 2023",
+          "end_date": "Present",
+          "expected_graduation": "May 2025",
+          "gpa": "3.94/4.0"
+        },
+        {
+          "degree": "Bachelor of Science in Finance, Economics",
+          "institution": "Case Western Reserve University",
+          "start_date": "Aug 2016",
+          "end_date": "May 2020",
+          "gpa": "3.70/4.0"
+        }
+      ],
+      "projects": [
+        {
+          "title": "DandyKing Official Website",
+          "technologies": [
+            "PHP"
+          ],
+          "duration": "Oct 2022 \u2014 Present",
+          "description": [
+            "Successfully integrated Alipay's payment gateway(API), enabling seamless transaction processes for both QR-based payments and online transactions.",
+            "Implemented a robust system to verify the payment status of transactions using the out-trade number, ensuring real-time accuracy in order status updates.",
+            "Ensured that the payment status data between Alipay and our internal databases were synchronized, reducing discrepancies and enhancing the reliability of the system.",
+            "Created detailed documentation for the implemented payment processes and conducted knowledge-sharing sessions to onboard and assist other team members in understanding the new payment functionalities."
+          ]
+        },
+        {
+          "title": "Appointment Management System",
+          "technologies": [
+            "Python"
+          ],
+          "duration": "May 2023 \u2014 May 2023",
+          "description": [
+            "Developed a comprehensive Appointment Management System, demonstrating strong skills in object-oriented programming and system design.",
+            "Implemented user-friendly functionalities for appointment scheduling, cancellation, and user management, ensuring robust input validation.",
+            "Designed a clear and intuitive user interface, enhancing user experience and system accessibility.",
+            "Ensured code quality and maintainability, adhering to best practices and software design patterns.",
+            "Completed the project within a tight timeframe, showcasing effective time management and problem-solving skills."
+          ]
+        },
+        {
+          "title": "Data Breach Notification System",
+          "technologies": [
+            "Java"
+          ],
+          "duration": "Jun 2023 \u2014 Jun 2023",
+          "description": [
+            "Developed a command-line application for automated generation and distribution of personalized emails and letters after a data breach at a national insurance company.",
+            "Engineered a solution to extract customer data from CSV files and dynamically populate communication templates.",
+            "Implemented robust error handling and user instructions for improved usability.",
+            "Ensured seamless operations and compatibility across various operating systems.",
+            "Conducted extensive testing and provided comprehensive documentation to facilitate future maintenance."
+          ]
+        }
+      ],
+      "work_experience": [
+        {
+          "title": "Sales Analyst",
+          "company": "FOTILE America LLC",
+          "location": "NJ Parsippany",
+          "duration": "Jan 2022 \u2014 Dec 2022",
+          "responsibilities": [
+            "Utilized advanced Excel functions, Python, and Tableau to analyze large datasets, leading to a 15% increase in operational efficiency.",
+            "Led training sessions on data analytics tools and best practices for other business analysts, enhancing team capabilities and performance.",
+            "Collaborated with senior management to identify business needs and opportunities, contributing to the development of the annual strategic plan.",
+            "Created comprehensive documentation, including business requirements documents, process flow diagrams, and user guides."
+          ]
+        }
+      ],
+      "resume_id": "Kun_Wang_-_Software_Engineer"
+    },
+    {
+      "name": "Kun Wang",
+      "email": "wang.kun6@northeastern.edu",
+      "phone": "+1(206)245-4954",
+      "location": "Seattle, WA 98109",
+      "experience": [
+        {
+          "job_title": "Tech Lead - Full Stack",
+          "company": "Keelworks Foundation",
+          "location": "Seattle, WA",
+          "start_date": "Jan 2024",
+          "end_date": "Present",
+          "responsibilities": [
+            "Led a team of 8 developers in designing and implementing KeelHub, a full-stack volunteer management system serving 2,000+ daily active users.",
+            "Implemented a robust user authentication and authorization system, integrating Google OAuth2 for seamless sign-in and Google Authenticator for two-factor authentication (2FA).",
+            "Developed a responsive frontend using React.js and TailwindCSS, crafting over 200 reusable components to ensure consistency and efficiency.",
+            "Implemented a comprehensive role-based rendering system for 6 distinct user roles, dynamically adjusting UI elements and access permissions.",
+            "Architected a dynamic UI system with React and Redux, optimizing performance through React hooks, Redux Toolkit, and memoization (React.memo, useMemo). Implemented code splitting and lazy loading (React.lazy, Suspense), resulting in 40% faster initial load times.",
+            "Engineered a comprehensive RESTful API infrastructure using Node.js and Express, creating over 40 data models with corresponding controllers and routes, resulting in 200+ endpoints for frontend and external app consumption. Implemented API versioning and rate limiting to manage high-volume requests, ensuring scalability for 500+ concurrent users.",
+            "Architected a scalable MySQL database schema, utilizing Sequelize ORM for robust data modeling and query optimization. Implemented customized secondary indexing and Redis-based caching strategies, reducing average query response time by 60% and supporting 1000+ read operations per second.",
+            "Managed project workflow using JIRA and Agile methodologies. Conducted one-on-one meetings with 8 developers to track progress, address challenges, and ensure timely delivery.",
+            "Containerized the application using Docker, deploying on AWS EC2 with auto-scaling and load balancing."
+          ]
+        },
+        {
+          "job_title": "Software Engineer Intern",
+          "company": "Dandy King",
+          "start_date": "April 2023",
+          "end_date": "August 2023",
+          "responsibilities": [
+            "Engineered robust back-end infrastructure using Java and Spring Boot, implementing RESTful APIs with Spring Web MVC. Achieved handling of 1000+ requests/second.",
+            "Optimized data handling with MyBatis, DynamoDB, Redis, and RabbitMQ, ensuring real-time updates for inventory and transactions. Supported 10,000+ concurrent users during peak hours with efficient message queuing and event-driven architecture."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "M.S. in Computer Science",
+        "institution": "Northeastern University",
+        "location": "Seattle, WA",
+        "expected_graduation": "Dec 2025",
+        "gpa": "4.0/4.0"
+      },
+      "skills": {
+        "programming_languages": [
+          "Java",
+          "Python",
+          "C++",
+          "JavaScript",
+          "PHP",
+          "HTML",
+          "CSS"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "Redis",
+          "SQLite",
+          "DynamoDB"
+        ],
+        "tools_and_platforms": [
+          "Git",
+          "AWS",
+          "Azure",
+          "Docker",
+          "Jenkins"
+        ],
+        "frameworks_and_libraries": [
+          "Node.js",
+          "React",
+          "Angular",
+          "Spring Boot",
+          "Laravel",
+          "Flask",
+          "Django",
+          "Bootstrap"
+        ],
+        "testing": [
+          "JUnit",
+          "Pytest",
+          "XUnit",
+          "Jest",
+          "Supertest"
+        ]
+      },
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/kun-wang-9221a5294/",
+        "website": "https://kunwang0527.github.io/Personal-website/",
+        "github": "https://github.com/KunWang0527",
+        "portfolio": "Internal project under NDA; Figma file walkthrough available upon request"
+      },
+      "projects": [
+        {
+          "name": "Password Manager",
+          "description": "Engineered a secure full-stack password management app using JavaScript, React, Node.js, Express, and MongoDB. Implemented custom password generation with adjustable length and character types, secure encryption for storage, and user-to-user sharing functionality, all exposed through a RESTful API.",
+          "website": "3.143.0.191:3001"
+        }
+      ],
+      "resume_id": "KW_Resume"
+    },
+    {
+      "name": "LEANDER HARTMAN",
+      "title": "Lead Software Engineer",
+      "contact": {
+        "email": "l.hartman@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Philadelphia, PA",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Lead Software Engineer",
+          "company": "Comcast",
+          "location": "Philadelphia, PA",
+          "start_date": "2020",
+          "end_date": "current",
+          "responsibilities": [
+            "Led a team of 9 engineers to adopt Bitbucket for version control, lowering merge conflicts by 39%.",
+            "Supervised two major version control migrations for a team of 78, making code collaboration 41% easier on average according to feedback.",
+            "Held 4 internal workshops on cloud technologies and current regulatory practices, enhancing team knowledge.",
+            "Integrated CircleCI for continuous integration/continuous deployment (CI/CD), which allowed the team to quicken release cycles by 27 hours."
+          ]
+        },
+        {
+          "job_title": "Software Engineer",
+          "company": "Appian",
+          "location": "Philadelphia, PA",
+          "start_date": "2018",
+          "end_date": "2020",
+          "responsibilities": [
+            "Assisted in porting multiple applications to a cloud environment, reducing operational costs by $12,436 and maintaining a 98.9% uptime.",
+            "Automated repetitive tasks using Python scripts, saving 209 manual work hours annually.",
+            "Ran weekly performance testing sessions on critical software components, fixing major bugs that improved system throughput by 61%.",
+            "Developed and deployed 17 serverless functions with Google Cloud Functions, resulting in 23-minute improvement in response times."
+          ]
+        },
+        {
+          "job_title": "Technical Support Engineer",
+          "company": "UPMC",
+          "location": "Pittsburgh, PA",
+          "start_date": "2016",
+          "end_date": "2018",
+          "responsibilities": [
+            "Organized a hospital-wide training program on Zoom, remotely teaching 54 staff members about the use of a new system.",
+            "Conducted performance testing using Apache JMeter to identify key bottlenecks that were making the patient record system slower by 31%.",
+            "Used Wireshark for network analysis, successfully resolving 91% of network issues within the first 21 hours of reporting.",
+            "Worked with the clinical team to visualize 112 patient flow processes using draw.io."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "Master of Science",
+          "field_of_study": "Software Engineering",
+          "institution": "Carnegie Mellon University",
+          "location": "Philadelphia, PA",
+          "start_date": "2018",
+          "end_date": "2020"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "field_of_study": "Computer Science",
+          "institution": "Carnegie Mellon University",
+          "location": "Pittsburgh, PA",
+          "start_date": "2011",
+          "end_date": "2015"
+        }
+      ],
+      "skills": [
+        "Appian",
+        "draw.io",
+        "Microsoft Project",
+        "Bitbucket",
+        "Oracle Enterprise Manager",
+        "Istio",
+        "CircleCI",
+        "Apache JMeter",
+        "Wireshark",
+        "Google Cloud Functions",
+        "Zoom"
+      ],
+      "resume_id": "lead-software-engineer-resume-example"
+    },
+    {
+      "name": "Lin Yang",
+      "contact": {
+        "phone": "+1 2063990330",
+        "email": "lxy2421997@gmail.com",
+        "location": "Seattle, WA",
+        "relocation": true
+      },
+      "education": [
+        {
+          "institution": "Northeastern University",
+          "location": "Seattle, WA",
+          "degree": "Master of Computer Software Engineering",
+          "start_date": "Aug. 2022",
+          "end_date": "Dec. 2024",
+          "relevant_courses": [
+            "Data Structure and Algorithm",
+            "Web Development",
+            "OS",
+            "Agile Development"
+          ]
+        },
+        {
+          "institution": "Case Western Reserve University",
+          "location": "Cleveland, OH",
+          "degree": "Bachelor of Mathematics | Bachelor of Economics",
+          "degree_type": "Dual Degree",
+          "start_date": "Aug. 2016",
+          "end_date": "May. 2021"
+        }
+      ],
+      "professional_experience": [
+        {
+          "company": "Protime Internet Technology",
+          "location": "Shanghai, China",
+          "position": "Data Analysis Intern",
+          "department": "Data Department",
+          "start_date": "Jan. 2021",
+          "end_date": "Nov. 2021",
+          "responsibilities": [
+            "Leveraged resources across different platforms to collect and aggregate E-commerce data with Python, identified abnormal data points using k-means clustering",
+            "Conducted preliminary analysis on E-commerce market and adopted STP marketing model in SQL Server based on demographic data and future potential growth to offer recommendations to clients",
+            "Performed industry landscape and competitiveness analysis for two markets including cosmetics and 3C, and forecasted industry developing trends"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Full Stack (MERN stack) E-Commerce Website",
+          "technologies": [
+            "React",
+            "Redux",
+            "GraphQL",
+            "Firebase"
+          ],
+          "start_date": "May. 2024",
+          "end_date": "Aug. 2024",
+          "description": [
+            "Build a JavaScript website using React that allows users to register, login, browse products by categories and make purchases",
+            "Incorporated Stripe API to process payment and GraphQL API to fetch data with queries, resulting in a 60% decrease in response latency for queries",
+            "Utilized Firebase for authentication mechanism and data management to improve information security",
+            "Achieved user-friendly navigation and fluent user experience with React Router to keep the UI in sync with the URL",
+            "Utilized JavaScript libraries such as Redux to manage the state of application and accelerate data processing",
+            "Improved navigation efficiency with structured content hierarchies and persistent navigation menu bar"
+          ]
+        },
+        {
+          "title": "Chat Application",
+          "technologies": [
+            "JavaScript",
+            "Express.js"
+          ],
+          "start_date": "Feb. 2024",
+          "end_date": "April. 2024",
+          "description": [
+            "Developed a SPA chat application where all users share a single chat forum, with persistent message history visible to all users upon login",
+            "Implemented RESTful services using Express.js following best practices, including secure user authentication and authorization",
+            "Utilized a time-based polling mechanism to update client-side state with new messages and user lists without interrupting user input"
+          ]
+        },
+        {
+          "title": "AWS Serverless REST APIs Development",
+          "technologies": [
+            "Java"
+          ],
+          "start_date": "Mar. 2023",
+          "end_date": "Apr. 2023",
+          "description": [
+            "Build Serverless REST APIs for an e-commerce platform using Java",
+            "Utilized AWS API Gateway to optimize API performance in managing user profiles and product information",
+            "Incorporated AWS Lambda to enhance response time by 20% for order processing, product management and payment processing",
+            "Build CI/CD Pipeline using AWS CodeCommit, AWS CodeBuild and AWS CodePipeline to optimize the development process and reduce 30% deployment time"
+          ]
+        }
+      ],
+      "technical_skills": {
+        "programming_languages": [
+          "Python",
+          "Java",
+          "JavaScript (TypeScript)",
+          "HTML",
+          "CSS (SASS)"
+        ],
+        "databases": [
+          "MongoDB",
+          "MySQL",
+          "Firebase"
+        ],
+        "tools_and_frameworks": [
+          "Git",
+          "GitHub",
+          "GraphQL",
+          "React",
+          "Redux",
+          "ExpressJS",
+          "AWS",
+          "CI/CD"
+        ]
+      },
+      "resume_id": "Lin Yang CV"
+    },
+    {
+      "name": "Adira Patel",
+      "contact": {
+        "email": "a.patel@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Seattle, WA",
+        "linkedin": "LinkedIn",
+        "github": "Github"
+      },
+      "work_experience": [
+        {
+          "title": "Mid-Level Software Engineer",
+          "company": "F5 Networks",
+          "location": "Seattle, WA",
+          "duration": "2023 - current",
+          "responsibilities": [
+            "Spearheaded Java coding workshop for 21+ developers, improving awareness and reducing code-related threats by 37%",
+            "Led PCI DSS compliance audit and found no non-compliance instance",
+            "Bolstered fraud prevention with Memcyco and achieved a 24% decrease in false positives",
+            "Automated repeatable testing on JUnit that expedited applications testing by 47% rate"
+          ]
+        },
+        {
+          "title": "Junior Software Developer",
+          "company": "Zulily",
+          "location": "Seattle, WA",
+          "duration": "2020 - 2023",
+          "responsibilities": [
+            "Tracked and fixed 61+ web application bugs using Jira, which resulted in a 97% reduction in crashes",
+            "Enhanced web load time by 33% through MySQL-optimized database storage",
+            "Implemented React Native UI enhancements that resulted in a 41% increase in average session duration",
+            "Collaborated with a 7-member cross-functional team to build software core features to improve system performance to 114%"
+          ]
+        },
+        {
+          "title": "Software Developer Intern",
+          "company": "ExtraHop Networks",
+          "location": "Seattle, WA",
+          "duration": "2019 - 2020",
+          "responsibilities": [
+            "Created HTML/CSS web pages and reduced workload for the core DevOps by 17%",
+            "Decreased the frequency of code breakages to 7% by developing a Git-backed tool for code management",
+            "Participated in rolling out Linux-encrypted web and database servers that enhanced overall system performance by 62%",
+            "Integrated UI upgrades into new cross-device access applications, achieving a 34% upsurge in positive user reviews",
+            "Decreased bounce rate by 18% by improving site navigation and enhancing mobile responsiveness with Bootstrap 5"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "Bachelor of Science",
+          "field_of_study": "Computer Science",
+          "institution": "University of Washington",
+          "location": "Seattle, WA",
+          "duration": "2015 - 2019"
+        }
+      ],
+      "skills": [
+        "Java",
+        "HTML/CSS",
+        "MySQL",
+        "Git",
+        "Jira",
+        "JUnit",
+        "Eclipse",
+        "Linux",
+        "Memcyco",
+        "Spring Boot",
+        "React Native"
+      ],
+      "certifications": [
+        "AWS Certified Developer"
+      ],
+      "resume_id": "mid-level-software-engineer-resume-example"
+    },
+    {
+      "name": "Fallon Winslow",
+      "contact": {
+        "email": "f.winslow@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Seattle, WA"
+      },
+      "work_experience": [
+        {
+          "title": "Software Engineer Intern",
+          "company": "F5 Networks",
+          "location": "Seattle, WA",
+          "duration": "2023 - current",
+          "responsibilities": [
+            "Implemented a new authentication module in Python, improving system security compliance and saving an estimated $2,046 on potential breach risks",
+            "Upgraded the Jenkins pipeline for continuous integration, speeding up code deployment times by three hours",
+            "Developed a MySQL database schema design, improving data integrity and access speed by 39%",
+            "Designed a user-friendly interface for our internal tool using Django, which increased user adoption by an extra 329 users"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "University of Washington",
+        "duration": "2019 - 2023",
+        "location": "Seattle, WA"
+      },
+      "projects": [
+        {
+          "title": "CodeIt",
+          "role": "Team Member",
+          "year": 2022,
+          "contributions": [
+            "Supervised the integration of user feedback into project iterations, enhancing usability scores by 2 points on a scale of 0 to 10",
+            "Created a dynamic and responsive web UI with Visual Studio Code, resulting in a significant increase of 158 new users within the first day of launch alone",
+            "Formulated strategies for database optimization in MySQL, which reduced query response times from an average of 12 seconds to 4.8 seconds",
+            "Expanded the application\u2019s functionality by incorporating Python scripts for data analysis, increasing data processing capacities by 2.7 GB per day"
+          ]
+        }
+      ],
+      "skills": [
+        "Visual Studio Code",
+        "Git",
+        "Python",
+        "Django",
+        "MySQL",
+        "OpenShift",
+        "IBM Cloud",
+        "Jenkins"
+      ],
+      "workshops": [
+        {
+          "title": "CyberGuard Workshop",
+          "role": "Workshop Attendee",
+          "year": 2021,
+          "activities": [
+            "Engaged in a session focused on ethical hacking, learning to use Git for version control to manage and maintain security scripts and tools",
+            "Built a basic threat simulation model, which augmented my ability to set up secure environments for applications deployed using Jenkins pipelines",
+            "Introduced to the principles of secure coding practices, employing Visual Studio Code for scanning and fixing over 19 vulnerabilities in the codebase",
+            "Acquired knowledge on building a basic threat simulation model, introducing me to the secure setup of CI/CD pipelines using Jenkins"
+          ]
+        }
+      ],
+      "resume_id": "new-grad-software-engineer-resume-example"
+    },
+    {
+      "name": "Gaia Park",
+      "email": "gaia.park@email.com",
+      "phone": "(123) 456-7890",
+      "location": "Redmond, WA",
+      "linkedin": "LinkedIn",
+      "work_experience": [
+        {
+          "company": "Microsoft",
+          "title": "Principal Software Engineer",
+          "start_date": "October 2020",
+          "end_date": "current",
+          "location": "Redmond, WA",
+          "responsibilities": [
+            "Led the migration of legacy Java applications to Python, improving code maintainability by 12% and reducing bug rates by 16%",
+            "Built custom Eclipse plugin that streamlined software development process, reducing build times by 24%",
+            "Architected and deployed solutions on Red Hat OpenShift, cutting time-to-market of mobile apps in half",
+            "Spearheaded a new product launch, contributing $800K to annual revenue and a 5% rise in market share"
+          ]
+        },
+        {
+          "company": "3D Robotics",
+          "title": "Software Tester",
+          "start_date": "August 2017",
+          "end_date": "August 2020",
+          "location": "Berkeley, CA",
+          "responsibilities": [
+            "Developed Python scripts to automate functional and regression testing, increasing test coverage and reducing manual effort by 37%",
+            "Tested C++ applications, identifying bottlenecks and optimizing code to improve processing speed by 28%",
+            "Designed custom test automation frameworks using Java to enable faster feedback for developers",
+            "Created detailed test reports with actionable feedback, reducing post-release defects by 12%"
+          ]
+        },
+        {
+          "company": "Aduro Biotech",
+          "title": "Junior Software Developer",
+          "start_date": "June 2014",
+          "end_date": "July 2017",
+          "location": "Berkeley, CA",
+          "responsibilities": [
+            "Used Eclipse IDE to write, debug, and maintain code, improving productivity by 21% and code quality by 7%",
+            "Designed unit tests for the development team for a 15% drop in production defects",
+            "Supported the development of RESTful APIs, contributing to a 29% increase in third-party integrations",
+            "Supported database operations for both SQL and NoSQL systems, improving query performance by 16%"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "University of California, Berkeley",
+          "degree": "M.S.",
+          "field_of_study": "Computer Science",
+          "start_date": "2014",
+          "end_date": "2016",
+          "location": "Berkeley, CA"
+        },
+        {
+          "institution": "University of California, Berkeley",
+          "degree": "B.S.",
+          "field_of_study": "Electrical Engineering",
+          "start_date": "2010",
+          "end_date": "2014",
+          "location": "Berkeley, CA"
+        }
+      ],
+      "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C++",
+        "Oracle Cloud Infrastructure",
+        "Oracle Database",
+        "MongoDB",
+        "Red Hat OpenShift"
+      ],
+      "hobbies": [
+        "Coding challenges",
+        "Hackathons"
+      ],
+      "resume_id": "principal-software-engineer-resume-example"
+    },
+    {
+      "name": "Giulia Gonzalez",
+      "contact": {
+        "email": "ggonzalez@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Detroit, MI"
+      },
+      "work_experience": [
+        {
+          "job_title": "Python Developer",
+          "company": "DoorDash",
+          "location": "Detroit, MI",
+          "start_date": "September 2017",
+          "end_date": "current",
+          "responsibilities": [
+            "Worked on building new Angular components for the customer-facing web app, which improved the time on page for the average user by 2 minutes",
+            "Collaborated with an agile team of 6, and helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first",
+            "Built extensive test coverage for all new features, which reduced the number of customer complaints by 23%",
+            "Acquired and ingested data to build and maintain data pipelines that led to discovering an opportunity for a new site feature, boosting revenue by 6%",
+            "Communicated with internal teams and stakeholders, working to determine solutions for the user experience"
+          ]
+        },
+        {
+          "job_title": "Python Developer Intern",
+          "company": "Knewton",
+          "location": "Chicago, IL",
+          "start_date": "April 2016",
+          "end_date": "April 2017",
+          "responsibilities": [
+            "Worked alongside another developer to implement RESTful APIs in Django that enabled internal analytics team to increase reporting speed by 24%",
+            "Using Selenium, built out a unit testing infrastructure for a client web application that reduced the number of bugs reported by the client by 11% month over month",
+            "Provided project updates to leadership team of 3, and offered recommendations for design",
+            "Diagnosed issues causing slow speeds in applications, and documented the process to making the database query system more robust",
+            "Participated in writing scalable code with a team of 4 interns and 1 developer for applications for a math course"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.S.",
+          "field_of_study": "Computer Science",
+          "institution": "University of Chicago",
+          "start_date": "2014",
+          "end_date": "2016"
+        },
+        {
+          "degree": "B.S.",
+          "field_of_study": "Computer Science",
+          "institution": "University of Pittsburgh",
+          "start_date": "2010",
+          "end_date": "2014"
+        }
+      ],
+      "skills": [
+        "HTML/CSS",
+        "SQL (PostgreSQL, Oracle)",
+        "JavaScript (Angular)",
+        "Python (Django)",
+        "REST APIs (GraphQL)",
+        "AWS (Redshift, S3)",
+        "Git"
+      ],
+      "projects": [
+        {
+          "name": "Cryptocurrency Price Tracker",
+          "role": "Creator",
+          "description": [
+            "Incorporated API calls to several applications, and stored data efficiently in PostgreSQL backend",
+            "Utilized D3.js to allow users to dynamically visualize price movements over time periods of their choosing"
+          ]
+        }
+      ],
+      "linkedin": "LinkedIn",
+      "github": "Github",
+      "resume_id": "python-developer-resume-example"
+    },
+    {
+      "name": "Jianyi Xu",
+      "contact_information": {
+        "phone": "+1 (484)-666-1327",
+        "email": "Jixhaw@umich.edu",
+        "address": "1113 Nielsen Ct, MI, 48105"
+      },
+      "education": [
+        {
+          "institution": "University of Michigan",
+          "degree": "M.S in Biostatistics",
+          "start_date": "Aug. 2024",
+          "end_date": "Now"
+        },
+        {
+          "institution": "University of Pittsburgh",
+          "degree": "B.S in Economics-Statistics",
+          "start_date": "Sept. 2020",
+          "end_date": "May 2024",
+          "relevant_coursework": [
+            "Probability and Distribution Theory",
+            "Inference Methods",
+            "Generalized Linear Models",
+            "Survival Analysis",
+            "Machine Learning for Health Data",
+            "Causal Inference",
+            "Bayesian Methods",
+            "Design of Clinical Trials"
+          ]
+        }
+      ],
+      "internship_experiences": [
+        {
+          "company": "Artery Flow",
+          "position": "Analyst Intern",
+          "location": "Hangzhou, China",
+          "duration": "June-sept. 2024",
+          "responsibilities": [
+            "Collaborated with Zhongshan Hospital, Fudan University, on a study involving 2,146 patients to develop predictive models for Major Adverse Cardiovascular Events using AI-derived clinical indicators and a Bayesian approach, which I initiated and helped build; contributed to the results and inference sections of the ongoing manuscript.",
+            "Collaborated with Renji Hospital, Shanghai Jiao Tong University School of Medicine, analyzing data from 471 patients to compare AI-generated post-procedural Index of Microcirculatory Resistance with measured IMR for improving MACE prediction models; performed data analysis across lesion types, statistical testing, and assisted with manuscript preparation.",
+            "Collaborated with The Second Affiliated Hospital, Zhejiang University School of Medicine on three studies: Conducted research on 1,436 patients to demonstrate the superior diagnostic performance of AI-derived IMR compared to traditional metrics like Corrected Thrombolysis in Myocardial Infarction Frame Count and Coronary Flow Reserve.",
+            "Carried out comparative analysis on 659 patients to evaluate the predictive thresholds of IMR and Fractional Flow Reserve for MACE in patients with different vascular lesion types, and contributed to drafting the results and inference sections for the manuscript currently under review (J Translational Internal Medicine).",
+            "Analyzed medication utilization patterns in 146 rotational atherectomy cases through an independent intraoperative comparative study."
+          ]
+        },
+        {
+          "company": "Medtronic",
+          "position": "Analyst Intern",
+          "location": "Shanghai, China",
+          "duration": "July. \u2013Sept. 2023",
+          "responsibilities": [
+            "Processed and visualized clinical data collected from partner hospitals using Python; built linear regression and ARIMA models to assess Solitaire stent efficacy and forecast hemorrhagic stroke trends.",
+            "Created a presentation deck summarizing key insights and delivered it to the Clinical Affairs team to support product evaluation and future treatment planning."
+          ]
+        },
+        {
+          "company": "Wallaby Medical",
+          "position": "Analyst Intern",
+          "location": "Shanghai, China",
+          "duration": "July-Aug. 2022",
+          "responsibilities": [
+            "Collected and analyzed data from over 20 hospitals on the intraoperative usage rate of embolization coils, comparing Wallaby\u2019s products with major domestic brands in terms of procedure frequency, average coils per surgery, and physician preferences.",
+            "Examined sales volume across provinces alongside hospital penetration, procurement records, and distributor performance; presented findings to the marketing department, which informed regional pricing and product positioning strategies."
+          ]
+        }
+      ],
+      "publications": [
+        {
+          "title": "Integrated prognostic assessment of stable, unstable coronary artery disease and non-ST elevation myocardial infarction with angiography-derived index of microcirculatory resistance and fractional flow reserve.",
+          "authors": [
+            "Liu Y",
+            "Hu Y",
+            "Zhang J",
+            "Xu J",
+            "Dong L",
+            "Jiang J",
+            "et al."
+          ],
+          "journal": "J Transl Int Med",
+          "status": "Under Review"
+        }
+      ],
+      "highlighted_projects": [
+        {
+          "title": "Automated Retinal Vessel Segmentation using U-Net",
+          "role": "Core Member",
+          "duration": "Oct.-Dec 2024",
+          "description": [
+            "Developed an automated retinal vessel segmentation system using a U-Net model integrated with a ResNet-34 encoder, optimized by a combined Dice and BCE loss function.",
+            "Conducted literature review, managed data collection, preprocessing, and achieved effective segmentation with a Mean Dice Score of 0.3680 and Mean IoU Score of 0.2458, identifying opportunities for further enhancement."
+          ]
+        },
+        {
+          "title": "Relationship Between HDL Cholesterol and BMI in US Adults",
+          "role": "Core Member",
+          "duration": "Sept.-Dec 2024",
+          "description": [
+            "Conducted regression analysis on NHANES data (n=2,145), adjusted and finalized models, and authored results highlighting BMI's significant negative correlation with HDL cholesterol (~30% variability explained)."
+          ]
+        },
+        {
+          "title": "Efficacy Analysis of Stent-Assisted Embolization in Ruptured Aneurysms",
+          "role": "Research Assistant",
+          "duration": "Aug.-Dec. 2022",
+          "description": [
+            "Analyzed baseline characteristics and outcomes in 207 patients undergoing stent-assisted embolization at Tangshan Workers Hospital, adjusted and finalized multivariate logistic regression models identifying significant predictors, and evaluated prognostic accuracy using ROC analysis across five stent types."
+          ]
+        }
+      ],
+      "resume_id": "Resume JX 3"
+    },
+    {
+      "name": "FIRST LAST",
+      "contact": {
+        "address": "San Francisco, California 94109",
+        "phone": "(480) 123-5689",
+        "email": "sampleresume@gmail.com",
+        "linkedin": "linkedin.com/in/sampleresume"
+      },
+      "summary": "An analytical and results-driven software engineer with experience in application development, scripting and coding, automation, web application design, product testing and deployment, UI testing, and requirements gathering. Proven aptitude for implementing innovative solutions to streamline and automate processes, enhance efficiency, improve customer satisfaction, and achieve financial savings.",
+      "education": [
+        {
+          "institution": "UNIVERSITY OF ARIZONA",
+          "location": "Tucson, Arizona",
+          "degree": "M.S.",
+          "field": "Computer Science",
+          "year": 2012
+        },
+        {
+          "institution": "UNIVERSITY OF ARIZONA",
+          "location": "Tucson, Arizona",
+          "degree": "B.S.B.A.",
+          "field": "Management Information Systems",
+          "year": 2011
+        }
+      ],
+      "technical_skills": {
+        "programming_languages": [
+          "JavaScript",
+          "Java"
+        ],
+        "frameworks_libraries": [
+          "ReactJS",
+          "AngularJS 1.x",
+          "ExpressJS",
+          "NodeJS",
+          "jQuery",
+          "HTML/CSS",
+          "Spring",
+          "Maven"
+        ],
+        "mobile_technologies": [
+          "React Native",
+          "ExponentJS"
+        ],
+        "databases": [
+          "MongoDB",
+          "SQL"
+        ],
+        "build_deploy_tools": [
+          "Docker",
+          "Tomcat",
+          "Grunt",
+          "Heroku",
+          "CircleCI"
+        ]
+      },
+      "experience": [
+        {
+          "company": "WALMART, INC.",
+          "location": "Bentonville, Arkansas",
+          "position": "Programmer Analyst",
+          "team": "Call Center Engineering Team",
+          "years": "2011-2016",
+          "responsibilities": [
+            "Architected financial services hotline app for 8 countries in Central and South America.",
+            "Implemented benefits hotline app rollout every year for US and Canada serving 1.4 million employees.",
+            "Optimized manual application tuning process with Java to fetch and process data, making process 20x faster.",
+            "Connected user-facing web applications with SQL DBs using Spring REST web services.",
+            "Integrated agent monitoring system, improving call center efficiency by 30%. [Employee of the Month - Dec 2012]"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "name": "PicoShell",
+          "role": "Software Engineer",
+          "type": "Code",
+          "description": "Collaborative coding platform with a linux terminal, code editor, file browser, chat window, and video collection.",
+          "responsibilities": [
+            "Connected users using Socket.io to chat and see immediate changes to collaborators\u2019 code editor and terminal.",
+            "Used Docker to emulate a UNIX environment in browser with drag and drop file upload and file download.",
+            "Created an API for Docker container control and NodeJS / ExpressJS server with a MySQL DB for user data.",
+            "Incorporated YouTube API for seamless programming alongside educational videos.",
+            "Built front-end using ReactJS and uses states to control permissions."
+          ]
+        },
+        {
+          "name": "TagMe",
+          "role": "Front-End Engineer / DevOps",
+          "type": "Code",
+          "description": "Photo diary and photo organizer that uses photo-recognition APIs to tag and caption photos.",
+          "responsibilities": [
+            "Expanded and refined functionality of React Native codebase.",
+            "Implemented search, geo-tags, and content sort using ExponentJS to improve UX.",
+            "Configured continuous integration using CircleCI and Heroku to streamline build, test, and deployment.",
+            "Rapidly prototyped and deployed mobile app using Exponent XDE."
+          ]
+        },
+        {
+          "name": "Roadtrip Mood Music Generator",
+          "role": "Software Engineer",
+          "type": "Code",
+          "description": "Spotify playlist generator based on time of day and weather forecast of any given roadtrip route.",
+          "responsibilities": [
+            "Integrated OAuth authentication with Spotify using PassportJS.",
+            "Generated Spotify playlists tailored to user\u2019s roadtrip route using Google Maps and Accuweather forecast."
+          ]
+        }
+      ],
+      "resume_id": "Resume-Sample-1-Software-Engineer"
+    },
+    {
+      "name": "Hao Yang",
+      "email": "jobshaoyang@gmail.com",
+      "phone": "216-785-7117",
+      "location": "Lomita, CA",
+      "linkedin": "https://www.linkedin.com/in/hao-yang-4886631b7/",
+      "education": [
+        {
+          "institution": "University of Southern California",
+          "degree": "M.S. Data Science",
+          "graduation_date": "Dec 2022"
+        },
+        {
+          "institution": "Case Western Reserve University",
+          "degree": "B.S. Computer Science",
+          "graduation_date": "June 2020"
+        }
+      ],
+      "technical_skills": [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "MySQL",
+        "Shell",
+        "Yaml",
+        "JSON",
+        "Node",
+        "Express",
+        "React",
+        "Angular",
+        "Vue",
+        "Next.js",
+        "jQuery",
+        "Git",
+        "Django",
+        "Flask",
+        "Docker",
+        "Postman",
+        "Terraform",
+        "AWS",
+        "S3",
+        "GCP",
+        "Pytorch"
+      ],
+      "languages": [
+        {
+          "language": "English",
+          "proficiency": "Professional Proficiency"
+        },
+        {
+          "language": "Chinese",
+          "dialects": [
+            "Mandarin",
+            "Cantonese"
+          ],
+          "proficiency": "Professional Proficiency"
+        },
+        {
+          "language": "Japanese",
+          "proficiency": "Professional Proficiency"
+        }
+      ],
+      "work_experience": [
+        {
+          "company": "DrLambda (ChatSlideAI)",
+          "location": "Remote",
+          "position": "Full-stack Engineer",
+          "dates": "Oct 2023 - current",
+          "responsibilities": [
+            "Designed and implemented key microservices of the application using Python, Flask, and AWS EC2, enhancing user experience. Led to a 54% rise in site traffic and 32% increase in revenue in the first quarter.",
+            "Designed and constructed the robust frontend for the Web UI using AWS Amplify, React, JavaScript, TypeScript, and Next.js, optimizing application performance through code refactoring. Achieved 28% increase in speed.",
+            "Integrated LangChain with search engine wrappers to dynamically scrape data based on user input and return accurate responses, leveraging natural language processing to provide relevant and timely information.",
+            "Leveraged PostgreSQL and AWS S3 for robust data storage solutions, optimizing database performance and ensuring reliable data retrieval for various application needs. Set up Retool to streamline database management and querying.",
+            "Developed RESTful API endpoints to facilitate Create, Read, Update, and Delete (CRUD) operations with PostgreSQL. Employed Postman for API testing, ensuring the reliability and functionality of API endpoints. Utilized API Gateway to manage API endpoints and integrate with backend services.",
+            "Wrote shell scripts in Linux to automate deployment processes, ensuring consistency and reliability across all deployment stages.",
+            "Implemented AWS CodePipeline for continuous integration and deployment, automating testing, building, and deployment of code changes.",
+            "Worked collaboratively across departments, including the AI team, UI/UX team, and PM team, to ensure the successful delivery of impactful solutions and products. Utilized Jira for task management and Figma for design collaboration."
+          ],
+          "key_skills": [
+            "Python",
+            "Flask",
+            "LangChain",
+            "SQL",
+            "EC2",
+            "S3",
+            "Amplify",
+            "React",
+            "JavaScript",
+            "TypeScript",
+            "Next.js"
+          ]
+        },
+        {
+          "company": "Baynovation",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern",
+          "dates": "Dec 2022 - Oct 2023",
+          "responsibilities": [
+            "Designed and developed a robust full-stack search engine utilizing Python Flask and AWS, catering to keyword search requirements within a dataset.",
+            "Implemented RESTful API endpoints to facilitate Create, Read, Update, and Delete (CRUD) operations against MySQL, ensuring efficient data management.",
+            "Engineered a reverse indexing mechanism within the Flask server to enhance search latency, enabling support for multiple keywords and common phrases.",
+            "Conducted extensive testing using Postman to validate the functionality and performance of API endpoints."
+          ],
+          "key_skills": [
+            "Python",
+            "Flask",
+            "MySQL",
+            "S3",
+            "GitHub",
+            "Postman"
+          ]
+        },
+        {
+          "company": "YAMI",
+          "location": "Brea, CA",
+          "position": "Data Engineer Intern",
+          "dates": "June 2022 - Sep 2022",
+          "responsibilities": [
+            "Trained and fine-tuned machine learning models to accurately predict the optimal size of shipping boxes for Yamibuy products. By leveraging machine learning techniques, successfully improved prediction accuracy from 42% to 68%. This enhancement in prediction accuracy led to a significant reduction in labor and material costs, estimated at approximately 12%.",
+            "Implemented an ML system and modeling approach to address the packing problem, focusing on optimizing packing efficiency and reducing waste through the redefinition of prediction classes and fine-tuning of the model.",
+            "Designed and built an Extract, Transform, Load (ETL) pipeline for logging customer and transaction data. This pipeline facilitated the efficient processing of critical business data, enabling data-driven decision-making and enhancing overall operational insights."
+          ],
+          "key_skills": [
+            "Python",
+            "MySQL",
+            "Pandas",
+            "Numpy",
+            "Sklearn",
+            "Pytorch",
+            "React",
+            "JavaScript",
+            "TypeScript",
+            "GitHub",
+            "d3.js"
+          ]
+        }
+      ],
+      "resume_id": "Resume_Hao_Yang"
+    },
+    {
+      "name": "BOYANG LIU",
+      "contact": {
+        "address": "1242 NE 130th St, Seattle, WA, 98125",
+        "phone": "(+1)2063305563",
+        "email": "liuboyang525@gmail.com"
+      },
+      "education": [
+        {
+          "institution": "NORTHEASTERN UNIVERSITY",
+          "degree": "Master of Science in CS Align",
+          "location": "Seattle, WA",
+          "start_date": "Jan. 2023",
+          "end_date": "Dec. 2025"
+        },
+        {
+          "institution": "NORTH CHINA ELECTRIC POWER UNIVERSITY",
+          "degree": "Bachelor of Science in Electrical Engineering",
+          "location": "Beijing, China",
+          "start_date": "Sep. 2016",
+          "end_date": "Jun. 2020"
+        }
+      ],
+      "skills": {
+        "programming_languages": [
+          "Java",
+          "Python",
+          "C/C++",
+          "JavaScript",
+          "TypeScript",
+          "HTML/CSS",
+          "SQL"
+        ],
+        "development_tools": [
+          "React",
+          "Node.js",
+          "MySQL",
+          "MongoDB",
+          "Pytorch",
+          "Docker",
+          "Git"
+        ]
+      },
+      "work_experience": [
+        {
+          "title": "Full-stack Software Intern",
+          "company": "KeelWorks Foundation",
+          "start_date": "May 2024",
+          "end_date": "Current",
+          "responsibilities": [
+            "Led a 4-person back-end team in developing KeelHub, a full-stack application managing 300+ volunteers and tracking internal projects, utilizing Agile methodology.",
+            "Oversaw sprint planning, daily stand-ups, and retrospectives, facilitating seamless collaboration between back-end, front-end, and DevOps teams to deliver a robust volunteer management solution.",
+            "Designed and optimized MySQL database schema, leveraging Sequelize ORM in Node.js for efficient data management.",
+            "Implemented synchronous/asynchronous query processing, ensuring uninterrupted workflows and improving resource utilization by 30%.",
+            "Architected a scalable backend using Node.js and Express.js, implementing RESTful APIs with role-based access control, rate limiting for enhanced security, and efficient caching strategies to optimize performance and reduce server load.",
+            "Developed a responsive, role-based front-end using React and Tailwind CSS, creating intuitive interfaces and a series of admin dashboards that collectively reduced administrative overhead by 40%.",
+            "Implemented robust testing strategies including unit tests with Jest, integration tests for API endpoints, and end-to-end tests using Cypress, achieving 95% test coverage and significantly reducing bug incidents in production."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Password Manager",
+          "technologies": [
+            "Node.js",
+            "Python",
+            "MongoDB",
+            "AWS"
+          ],
+          "duration": "Jan 2024 - May 2024",
+          "description": [
+            "Developed a secure password manager using React for the front-end and Node.js with MongoDB Atlas for the back-end.",
+            "Implemented user authentication, authorization, and password encryption, allowing users to generate, store, and share passwords.",
+            "Enabled password sharing with acceptance and revocation options for enhanced security.",
+            "Deployed the application on AWS EC2 for scalable and reliable hosting."
+          ]
+        },
+        {
+          "title": "Online Payment Platform",
+          "technologies": [
+            "React",
+            "JS",
+            "Python",
+            "Docker",
+            "AWS"
+          ],
+          "duration": "Sep 2023 - Dec 2023",
+          "description": [
+            "Led a team of 3 developers to develop a full-stack financial web app; features including real-time transaction initiation, detailed transaction history viewing, and personalized account management.",
+            "Implemented front-end UI reusable components including login form and personal financial portal using React, JavaScript, and Bootstrap.",
+            "Spearheaded the integration of a comprehensive financial overview dashboard, enabling users to monitor balances, transactions, and generate reports.",
+            "Designed REST API & data modeling, and developed back-end business logic using FAST API and Python; Conducted financial data CRUD operation using SQLite3; Deployed application using AWS ECR, AWS EC2 and Docker."
+          ]
+        }
+      ],
+      "resume_id": "resume_v4.21"
+    },
+    {
+      "name": "Ilyia Karaslavov",
+      "title": "Security Engineer",
+      "contact": {
+        "email": "ilyia.karaslavov@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Phoenix, AZ",
+        "linkedin": null
+      },
+      "work_experience": [
+        {
+          "job_title": "Senior Information Security Engineer",
+          "company": "Wells Fargo",
+          "location": "Chandler, AZ",
+          "duration": "2015 - current",
+          "responsibilities": [
+            "Designed, built, configured, and deployed 50+ firewall, intrusion detection, and infrastructure automation technologies",
+            "Identified and investigated 100% of threats and vulnerabilities, reducing the risk of successful cyber attacks by 83%",
+            "Supported perimeter initiatives by automating and integrating the provisioning of accounts in the AWS cloud",
+            "Provided consultation on 181 technologies to address security gaps"
+          ]
+        },
+        {
+          "job_title": "Network Security Engineer",
+          "company": "Infosys",
+          "location": "Phoenix, AZ",
+          "duration": "2010 - 2015",
+          "responsibilities": [
+            "Designed and maintained 100% of cybersecurity soft & hardware",
+            "Launched initiative to converge IT and OT networks, saving $48K a year in labor costs and security initiatives",
+            "Maintained Process Control Network and 3 Pipeline SCADA Networks to ensure effectiveness, reliable operation, and security"
+          ]
+        },
+        {
+          "job_title": "Software Engineer",
+          "company": "Voice Media Group",
+          "location": "Phoenix, AZ",
+          "duration": "2007 - 2010",
+          "responsibilities": [
+            "Responsible for 100% of engineering, testing, implementation, and maintenance of both code and codebases",
+            "Conducted statistical analysis and troubleshooting for site lead and 4 key management personnel",
+            "Participated in all phases of software development, including initial design, prototype development, and production",
+            "Overhauled outdated practices to develop algorithms, ensure compliance, and conduct initial design stages for applications"
+          ]
+        },
+        {
+          "job_title": "Software/Java Engineer",
+          "company": "SimuLogix",
+          "location": "Phoenix, AZ",
+          "duration": "2005 - 2007",
+          "responsibilities": [
+            "Led production processes for 14 new products",
+            "Partnered with software developers and quality assurance engineers to build and test 3 types of new products",
+            "Designed and developed 6 scalable enterprise web applications",
+            "Collaborated with 4 engineers to update 20+ tools and processes"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Cybersecurity",
+        "institution": "Grand Canyon University",
+        "location": "Phoenix, AZ",
+        "duration": "2003 - 2005"
+      },
+      "skills": [
+        "Java",
+        "Hibernate",
+        "SQL",
+        "AWS",
+        "Azure",
+        "ITF+",
+        "A+",
+        "Project Management",
+        "Interpersonal Communication"
+      ],
+      "resume_id": "security-engineer-resume-example"
+    },
+    {
+      "name": "Tasiana Ukura",
+      "email": "tukura@email.com",
+      "phone": "(123) 456-7890",
+      "location": "Seattle, WA",
+      "linkedin": "LinkedIn",
+      "work_experience": [
+        {
+          "job_title": "Senior Software Engineer",
+          "company": "Fast",
+          "start_date": "October 2016",
+          "end_date": "current",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Built and maintained application that scaled to 2M daily users, communicating with cross-functional teams regarding product and design",
+            "Transformed UIs using React, decreasing debugging time by 62% and increasing views by 31%",
+            "Focused on front-end development, providing mentorship and coaching to 6 interns each summer",
+            "Oversaw a team of 4 to write scalable code for the e-commerce platform that increased payment protection by 15%"
+          ]
+        },
+        {
+          "job_title": "Software Engineer",
+          "company": "Adaptiva",
+          "start_date": "May 2009",
+          "end_date": "October 2016",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Developed cloud-based technologies with C++ and Java to assist Fortune 500 companies with scaling content distribution by 60% or more and increasing their productivity by 40% or more",
+            "Teamed up with current clients to understand needs for improved functionality, and communicated with engineers and clients to develop enhancements that boosted client satisfaction by 27%",
+            "Manipulated algorithms to align with marketing, sales, and solutions, improving automation by 32%",
+            "Drafted documentations delineating designs and specs for more than 20 projects"
+          ]
+        },
+        {
+          "job_title": "Software Engineer Intern",
+          "company": "Expedia Group",
+          "start_date": "May 2008",
+          "end_date": "May 2009",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Worked with 5 other interns under the supervision of senior software engineer on full stack development of the e-commerce system",
+            "Received coaching and support from peers and senior software engineer, and gained practical experience in using Java and Python",
+            "Studied data structures to recommend changes in algorithms, which boosted online sales by 6%",
+            "Partnered with interns, using code composition to redesign a clean API that offered increased flexibility to third parties, which generated a revenue increase of $1.5M"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "B.S.",
+        "major": "Computer Science",
+        "institution": "University of Washington",
+        "start_date": "August 2004",
+        "end_date": "May 2008",
+        "location": "Seattle, WA"
+      },
+      "skills": {
+        "languages": [
+          "Python",
+          "JavaScript",
+          "C++",
+          "Java"
+        ],
+        "frameworks": [
+          "Django",
+          "NodeJS",
+          "React"
+        ],
+        "tools": [
+          "jQuery",
+          "Unix",
+          "Git",
+          "Selenium"
+        ],
+        "databases": [
+          "SQL (PostgreSQL, MySQL)",
+          "NoSQL",
+          "AWS"
+        ]
+      },
+      "resume_id": "senior-software-engineer-resume-example"
+    },
+    {
+      "name": "Cynthia Dwayne",
+      "title": "Software Developer",
+      "contact": {
+        "email": "cynthia@beamjobs.com",
+        "phone": "(123) 456-7890",
+        "location": "Brooklyn, NY",
+        "linkedin": "LinkedIn",
+        "github": "Github"
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Developer",
+          "company": "QuickBooks",
+          "location": "New York, NY",
+          "dates": "January 2017 - current",
+          "responsibilities": [
+            "Worked on the payments team to save time and improve cash flow for over 50,000 through the development of modern, responsive customer experiences",
+            "Led the migration from AWS to GCP for the team to reduce cloud costs by $260,000 per year",
+            "Worked closely with the product team to re-configure the processing of invoices, saving customers over 125,000 manual hours of work per month",
+            "Mentored 3 junior front-end developers on the team on React, and documented best practices within the organization"
+          ]
+        },
+        {
+          "job_title": "Front-End Developer",
+          "company": "AMR",
+          "location": "New York, NY",
+          "dates": "January 2014 - December 2016",
+          "responsibilities": [
+            "Contributed to the in-house UI library to create reusable components that saved 125+ hours of development per month",
+            "Created a web app MVP for a store delivery management platform with 200+ business customers to create, manage, and monitor deliveries using React and Redux",
+            "Added features to meditation app with 5,000+ monthly users, enabling audio and video uploads using React and Redux",
+            "Improved customer conversion rate by 17% through A/B testing of different components and combinations, representing $500,000+ in incremental annual revenue"
+          ]
+        },
+        {
+          "job_title": "Help Desk Analyst",
+          "company": "Kelly",
+          "location": "New York, NY",
+          "dates": "June 2012 - January 2014",
+          "responsibilities": [
+            "Diagnosed technical issues for 30+ clients per day by phone, email, and chat, solving issues within 15 minutes on average",
+            "Successfully reached solutions for 92% of computer errors, and escalated more complex tickets to higher tiers to assist clients as quickly as possible",
+            "Created user accounts for 50+ clients per week, and assisted them with setting up and customizing their accounts",
+            "Created and updated documentation as needed concerning network, software, and hardware problems"
+          ]
+        }
+      ],
+      "career_objective": "Throughout my 7-year-plus career as a software developer, I have focused on developing scalable and well-documented code. I enjoy working collaboratively but can also run with projects independently. Excited about the prospect of joining a product-driven company like Acme Corp.",
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "University of Delaware",
+        "dates": "August 2008 - May 2012",
+        "location": "Newark, DE"
+      },
+      "skills": [
+        "Python (Django)",
+        "SQL (PostgreSQL, MySQL)",
+        "Cloud (GCP, AWS)",
+        "JavaScript (ES6, React, Redux, Node.js)",
+        "Typescript",
+        "HTML/CSS",
+        "CI/CD"
+      ],
+      "resume_id": "software-developer-resume-example"
+    },
+    {
+      "name": "SERAPHINA BLAKE",
+      "title": "Software Development Engineer",
+      "contact": {
+        "email": "s.blake@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Houston, TX",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Development Engineer",
+          "company": "Hewlett Packard Enterprise (HPE)",
+          "location": "Houston, TX",
+          "dates": "2022 - current",
+          "responsibilities": [
+            "Worked with 3 engineers on GitHub, managing 27 repositories, which resulted in a 13% decrease in code conflicts.",
+            "Released multiple updates using Java for HP\u2019s diagnostics tool, improving its performance metrics by 11%.",
+            "Led the development of a new software feature on HP QuickDrop, resulting in a 6% increase in customer satisfaction, as per anonymous in-app surveys.",
+            "Optimized various MySQL database queries which eventually shortened query execution times to 3 ms."
+          ]
+        },
+        {
+          "job_title": "Software Developer",
+          "company": "IBM",
+          "location": "Austin, TX",
+          "dates": "2019 - 2022",
+          "responsibilities": [
+            "Enhanced code quality by installing Visual Studio Code extensions, curtailing monthly reported bugs on IBM\u2019s website by 14%.",
+            "Leveraged Jenkins plugins for monitoring 97% of all error logs and HTTPS requests, providing accurate data that helped the team boost build success rates by 21%.",
+            "Automated unit testing using JUnit, mitigating regression testing time by 58 minutes.",
+            "Lowered codebase complexity by refactoring legacy code, cutting down IBM\u2019s maintenance costs by $6,491."
+          ]
+        },
+        {
+          "job_title": "Junior Software Developer",
+          "company": "Oracle",
+          "location": "Austin, TX",
+          "dates": "2016 - 2019",
+          "responsibilities": [
+            "Helped senior designers implement React components on landing pages, growing UI consistency across 3 projects.",
+            "Deployed security patches with the help of Ansible, eliminating 7 system vulnerabilities.",
+            "Assisted in the creation project documentation, reducing the average onboarding time for new developers by one week.",
+            "Used Docker Compose for multi-container applications, expediting development environments and shortening setup times by 2 days."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "University of Texas",
+        "location": "Austin, TX",
+        "dates": "2012 - 2016"
+      },
+      "skills": [
+        "Visual Studio Code",
+        "GitHub",
+        "Jenkins",
+        "Java",
+        "MySQL",
+        "Amazon Web Services",
+        "Docker",
+        "Ansible",
+        "React",
+        "JUnit"
+      ],
+      "resume_id": "software-development-engineer-resume-example"
+    },
+    {
+      "name": "Caius Kessler",
+      "contact": {
+        "email": "ckessler@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Seattle, WA"
+      },
+      "career_objective": "Highly-driven computer science student with growing knowledge in Bitbucket, Oracle, and Java, seeking a software engineering internship at Microsoft. As a Microsoft Certified: Azure Developer Associate, I'm ready to contribute my passion and skills to help drive innovation as a global technology leader.",
+      "work_experience": [
+        {
+          "job_title": "Data Entry Specialist",
+          "company": "LinkedIn",
+          "location": "Seattle, WA",
+          "dates": "May 2021 - current",
+          "responsibilities": [
+            "Processed and entered 1,200+ travel records per week into Oracle databases.",
+            "Utilized Java-based tools to import and export data, reducing data transfer time by 34%.",
+            "Developed and deployed a Django-based web interface, increasing data accessibility for remote team by 22%.",
+            "Generated data-driven insights, supporting key business decisions and driving a 6% increase in revenue.",
+            "Gathered monthly reports on data entry metrics, helping strategic planning and resource allocation."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "B.S.",
+        "field_of_study": "Computer Science",
+        "institution": "University of Washington",
+        "dates": "September 2020 - current",
+        "location": "Seattle, WA",
+        "relevant_courses": [
+          "Computer Science I and II",
+          "Discrete Mathematics",
+          "Data Structures and Algorithms",
+          "Computer Organization and Architecture",
+          "Operating Systems"
+        ]
+      },
+      "projects": [
+        {
+          "name": "Tech Pursuit",
+          "role": "Creator",
+          "dates": "2020 - 2021",
+          "achievements": [
+            "Designed a robust database architecture utilizing Oracle, enhancing game performance by 38%.",
+            "Streamlined game development process by integrating Visual Studio, reducing overall project time by 11%.",
+            "Implemented version control and collaboration using Bitbucket, leading to a 21% decrease in code conflicts.",
+            "Enhanced game character AI using Java, increasing positive user reviews by 29%.",
+            "Conducted extensive playtesting and user feedback analysis every month, eliminating game bugs."
+          ]
+        }
+      ],
+      "skills": [
+        "Visual Studio",
+        "Bitbucket",
+        "Oracle",
+        "Django",
+        "Windows",
+        "Java"
+      ],
+      "hobbies": [
+        "Food Photography",
+        "Travel Photography",
+        "Video editing and post-production"
+      ],
+      "certifications": [
+        "Microsoft Certified: Azure Developer Associate",
+        "Oracle Certified Professional: Java SE 11 Developer"
+      ],
+      "resume_id": "software-engineer-intern-resume-example"
+    },
+    {
+      "name": "LYSANDRA VEGA",
+      "title": "Software Engineer",
+      "contact": {
+        "email": "lysandrav@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Indianapolis, IN",
+        "linkedin": "LinkedIn"
+      },
+      "career_objective": "New computer engineering graduate with strong problem-solving skills and a commitment to excellence, seeking a software engineer role at Salesforce. Excited to use my skill in Git and Python to support Salesforce's vision of helping companies connect with their customers in fresh ways.",
+      "education": {
+        "degree": "B.S.",
+        "field_of_study": "Computer Engineering",
+        "institution": "Purdue University",
+        "location": "West Lafayette, IN",
+        "dates": {
+          "start": "September 2019",
+          "end": "April 2023"
+        }
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Engineer Intern",
+          "company": "Infosys",
+          "location": "Indianapolis, IN",
+          "dates": {
+            "start": "January 2022",
+            "end": "March 2023"
+          },
+          "responsibilities": [
+            "Used Visual Studio Code for effective code editing and debugging, increasing code quality by 18%.",
+            "Integrated third-party APIs with Python to enhance app functionality and increase user satisfaction by 24%.",
+            "Improved database performance by optimizing MySQL queries, boosting query response times by 11%.",
+            "Streamlined the continuous integration and deployment (CI/CD) pipeline, reducing build times by 27%.",
+            "Cut merge conflicts by 13% using Git for version control and collaboration."
+          ]
+        }
+      ],
+      "skills": [
+        "Visual Studio Code",
+        "Git",
+        "MySQL",
+        "Django",
+        "Heroku",
+        "macOS",
+        "Python"
+      ],
+      "certifications": [
+        "Certified Software Development Professional (CSDP)"
+      ],
+      "projects": [
+        {
+          "project_name": "Academic Simulation Project",
+          "role": "Group Leader",
+          "dates": {
+            "start": "2019",
+            "end": "current"
+          },
+          "achievements": [
+            "Developed backup and recovery strategies for macOS, increasing data recovery speeds by 17%.",
+            "Implemented efficient MySQL database schemas and decreased data redundancy by 28%.",
+            "Employed Django ORM to manage database interactions, streamlining and reducing development time by 19%.",
+            "Collaborated with a team of 4 to ensure timely project delivery while adhering to best practices."
+          ]
+        }
+      ],
+      "resume_id": "software-engineer-new-grad-resume-example"
+    },
+    {
+      "name": "Charles McTurland",
+      "title": "Software Engineer",
+      "contact": {
+        "email": "cmcturland@email.com",
+        "phone": "(123) 456-7890",
+        "linkedin": null
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Engineer",
+          "company": "Embark",
+          "location": "New York, NY",
+          "dates": "January 2015 - current",
+          "responsibilities": [
+            "Worked with product managers to re-architect a multi-page web app into a single page web-app, boosting yearly revenue by $1.4M",
+            "Constructed the logic for a streamlined ad-serving platform that scaled to our 35M users, which improved the page speed by 15% after implementation",
+            "Tested software for bugs and operating speed, fixing bugs and documenting processes to increase efficiency by 18%",
+            "Iterated platform for college admissions, collaborating with a group of 4 engineers to create features across the software"
+          ]
+        },
+        {
+          "job_title": "Software Engineer",
+          "company": "MarketSmart",
+          "location": "Washington, DC",
+          "dates": "April 2012 - January 2015",
+          "responsibilities": [
+            "Built RESTful APIs that served data to the JavaScript front-end based on dynamically chosen user inputs that handled over 500,000 concurrent users",
+            "Built internal tool using NodeJS and Pupeteer.js to automate QA and monitoring of donor-facing web app, which improved CTR by 3%",
+            "Reviewed code and conducted testing for 3 additional features on donor-facing web app that increased contributions by 12%"
+          ]
+        },
+        {
+          "job_title": "Software Engineer Intern",
+          "company": "Marketing Science Company",
+          "location": "Pittsburgh, PA",
+          "dates": "April 2011 - March 2012",
+          "responsibilities": [
+            "Partnered with a developer to implement RESTful APIs in Django, enabling analytics team to increase reporting speed by 24%",
+            "Using Selenium I built out a unit testing infrastructure for a client application that reduced the number of bugs reported by the client by 11% month over month"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "B.S.",
+        "major": "Computer Science",
+        "university": "University of Pittsburgh",
+        "dates": "September 2008 - April 2012",
+        "location": "Pittsburgh, PA"
+      },
+      "skills": [
+        "Python (Django)",
+        "Javascript (NodeJS, ReactJS, jQuery)",
+        "SQL (MySQL, PostgreSQL, NoSQL)",
+        "HTML5/CSS",
+        "AWS",
+        "Unix",
+        "Git"
+      ],
+      "projects": [
+        {
+          "name": "Poker Simulation",
+          "description": "Built a full-stack web app to allow users to simulate and visualize outcomes of poker hands against opponents of different play styles using open source cards.js on the front-end. Utilized sci-kit learn in Python to simulate possible outcomes under different scenarios that the user chose."
+        }
+      ],
+      "resume_id": "software-engineer-resume-example"
+    },
+    {
+      "name": "Tina Cook",
+      "title": "Software Engineer Intern",
+      "contact": {
+        "email": "t.cook@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Seattle, WA",
+        "linkedin": null
+      },
+      "career_objective": "Passionate software engineer intern with project experience designing a mobile application design and POS-based smart contract development, aspiring to bring my expertise to Tableau Software. Excited to apply my skills in your firm to drive innovative data visualization solutions.",
+      "work_experience": [
+        {
+          "job_title": "Customer Service Representative",
+          "company": "T-Mobile",
+          "duration": "2023 - current",
+          "location": "Seattle, WA",
+          "responsibilities": [
+            "Provided on-call support to a minimum of 71 customers daily, resolving 92% of issues on the first call.",
+            "Implemented a C++ script to automate CRM data entry tasks, reducing the time needed to create reports by 39 minutes.",
+            "Prevented escalations for 8 billing issues each month via quick resolutions.",
+            "Managed high-volume inbound calls during peak hours, maintaining an average response time of under 44 seconds."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "University of Washington",
+        "duration": "2021 - current",
+        "location": "Seattle, WA"
+      },
+      "skills": [
+        "C++",
+        "Mercurial",
+        "Eclipse",
+        "MongoDB"
+      ],
+      "projects": [
+        {
+          "project_name": "PixelPilot",
+          "role": "UI/UX Designer",
+          "duration": "2022 - 2023",
+          "description": [
+            "Designed and prototyped a mobile app interface for a drone control application, gaining a 87% user engagement rate during the testing phase.",
+            "Held multiple user testing sessions, gathering feedback to refine the app\u2019s user interface and decrease post-launch bug reports by 41%.",
+            "Used Eclipse IDE to debug the mobile app, fixing critical issues and releasing the application 3 weeks ahead of schedule.",
+            "Leveraged MongoDB for storing user data and drone records, lowering data retrieval speed by 6 minutes."
+          ]
+        },
+        {
+          "project_name": "Blockchain Seminar Attendee",
+          "date": "November 2021",
+          "description": [
+            "Attended a comprehensive blockchain technology seminar with 175+ attendees, understanding its applications in finance and healthcare.",
+            "Participated in hands-on workshops on blockchain, achieving a 9.5/10 report score by industry experts for Google Cloud Platform integration.",
+            "Optimized blockchain deployments on OpenShift, using seminar knowledge to expedite deployment time by 4 days.",
+            "Created a proof-of-stake smart contract for a healthcare setting, reducing data processing time by 17 minutes compared to industry standards."
+          ]
+        }
+      ],
+      "resume_id": "software-engineer-student-resume-example"
+    },
+    {
+      "name": "Z A R A G R E E N E",
+      "title": "SOFTWARE ENGINEERING MANAGER",
+      "contact": {
+        "email": "zaragreen@email.com",
+        "phone": "(123) 456-7890"
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Engineering Manager",
+          "company": "Google LLC",
+          "location": "Mountain View, CA",
+          "dates": "May 2019 - April 2023",
+          "responsibilities": [
+            "Boosted application performance by 23% through the strategic use of Github Docker for containerization and deployment.",
+            "Enhanced CI/CD pipelines by integrating Jenkins, accelerating release cycles by 21%.",
+            "Optimized data storage and retrieval with MySQL, contributing to a 29% increase in database performance.",
+            "Mentored 5 junior engineers on best practices, increasing their productivity and improving code quality.",
+            "Improved application architecture using AWS Cloud Services, reducing server response times by 28%."
+          ]
+        },
+        {
+          "job_title": "Systems Analyst",
+          "company": "IBM",
+          "location": "Armonk, NY",
+          "dates": "October 2015 - April 2019",
+          "responsibilities": [
+            "Developed custom system monitoring tools using Java, improving infrastructure stability by 29%.",
+            "Implemented Git for version control and collaboration, reducing code conflicts by 15%.",
+            "Led the migration of legacy systems to modern technology stacks, improving system performance by 28%.",
+            "Enhanced website interface design with React.js, boosting click-through rates by 24%.",
+            "Leveraged MySQL for data management and analysis, boosting database performance by 26%."
+          ]
+        },
+        {
+          "job_title": "IT Support Technician",
+          "company": "PNC Financial Services Group",
+          "location": "Pittsburgh, PA",
+          "dates": "September 2012 - September 2015",
+          "responsibilities": [
+            "Resolved an average of 35 daily IT support tickets, resulting in a 28% increase in end-user satisfaction.",
+            "Used remote desktop tools to provide timely and efficient support, decreasing average ticket resolution time by 19%.",
+            "Introduced a centralized knowledge base, reducing ticket escalation rates by 23%.",
+            "Coordinated with vendors for timely hardware replacements and upgrades, improving equipment reliability.",
+            "Provided ongoing IT support for remote workforce, improving productivity by 22%."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "M.S.",
+          "field_of_study": "Computer Science with a concentration in Software Theory or Software Systems",
+          "institution": "Stanford University",
+          "dates": "2010 - 2012",
+          "location": "Stanford, CA"
+        },
+        {
+          "degree": "B.S.",
+          "field_of_study": "Computer Science",
+          "institution": "Carnegie Mellon University",
+          "dates": "2006 - 2010",
+          "location": "Pittsburgh, PA"
+        }
+      ],
+      "skills": [
+        "Eclipse",
+        "Git",
+        "Docker",
+        "Amazon Web Services (AWS)",
+        "Jenkins",
+        "React.js",
+        "MySQL",
+        "Java"
+      ],
+      "certifications": [
+        {
+          "name": "AWS Certified Developer",
+          "issuer": "Amazon Web Services"
+        }
+      ],
+      "resume_id": "software-engineering-manager-resume-example"
+    },
+    {
+      "name": "DEAN BLYTHE",
+      "title": "Software Integration Engineer",
+      "contact": {
+        "email": "dean-blythe@email.com",
+        "phone": "(123) 456-7890",
+        "location": "San Francisco, CA",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "title": "Integration Engineer",
+          "company": "Marqeta",
+          "location": "Oakland, CA",
+          "dates": "2018 - current",
+          "responsibilities": [
+            "Managed the design, development, implementation, and support of application integrations across 2 clinical and business systems",
+            "Evaluated all systems to determine integration requirements",
+            "Identified trouble spots during integration process and provided 49 solutions to restore full functionality with no errors",
+            "Communicated with 20+ stakeholders, development teams, and technology vendors during design and implementation"
+          ]
+        },
+        {
+          "title": "Software Quality Engineer",
+          "company": "San Francisco, CA",
+          "dates": "2012 - 2018",
+          "responsibilities": [
+            "Led test plan and code reviews with 2 teams every week",
+            "Developed, maintained, and extended a Java-based automation test framework that decreased bugs by 72%",
+            "Developed 100+ automated test suites to validate API, Back End, and Front End components"
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "company": "Uber",
+          "location": "San Francisco, CA",
+          "dates": "2009 - 2012",
+          "responsibilities": [
+            "Highlighted best practices and areas of concern for 3 teams",
+            "Managed support across 4 SQEs supporting a program to ensure SQE commitments are met",
+            "Ensured company safety compliance for 100% of software lifecycle activities and products"
+          ]
+        },
+        {
+          "title": "Staff Software Engineer",
+          "company": "Western Union",
+          "location": "San Francisco, CA",
+          "dates": "2006 - 2009",
+          "responsibilities": [
+            "Set and upheld standards for code quality and platform stability",
+            "Led plans for projects for product ideas and 7 program features",
+            "Partnered with 6 senior engineers, product design team, and 4 managers to schedule projects and establish timelines"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "Stanford University",
+        "location": "Stanford, CA",
+        "dates": "2002 - 2006"
+      },
+      "skills": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Adobe",
+        "Angular",
+        "PostgreSQL",
+        "MongoDB",
+        "Agile/Scrum/Waterfall",
+        "Attention to Detail",
+        "Verba Communication"
+      ],
+      "resume_id": "software-integration-engineer-resume-example"
+    },
+    {
+      "name": "Isolde Mercer",
+      "contact_information": {
+        "email": "i.mercer@email.com",
+        "phone": "(123) 456-7890",
+        "location": "New York, NY",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Software QA Engineer",
+          "company": "DigitalOcean",
+          "location": "New York, NY",
+          "start_date": "2019",
+          "end_date": "current",
+          "responsibilities": [
+            "Carried out performance testing for 13 high-traffic applications, finding and resolving current bottlenecks, and improving load times by 9 minutes.",
+            "Implemented multiple QA strategies using TestRail, reducing bug leakage by 11%.",
+            "Led weekly regression tests, spotting 86% of critical bugs before production deployment.",
+            "Executed load testing scenarios for DigitalOcean\u2019s main website on Apache JMeter, supporting 11,458 simultaneous users without any drop in performance."
+          ]
+        },
+        {
+          "job_title": "Associate QA Engineer",
+          "company": "Peloton",
+          "location": "New York, NY",
+          "start_date": "2016",
+          "end_date": "2019",
+          "responsibilities": [
+            "Automated testing procedures using Selenium, reducing manual testing time by 16 minutes and increasing test coverage by almost 29%.",
+            "Conducted mobile testing on Firebase Test Lab, achieving a 97% success rate in discovering and fixing device-specific issues within deadlines.",
+            "Assisted in the successful launch of 3 major fitness equipment products for Peloton, meeting all quality benchmarks and regulations.",
+            "Ensured 94% data accuracy in test environments with extensive SQL queries for data validation."
+          ]
+        },
+        {
+          "job_title": "Junior Software Tester",
+          "company": "Etsy",
+          "location": "Brooklyn, NY",
+          "start_date": "2014",
+          "end_date": "2016",
+          "responsibilities": [
+            "Used Bugzilla to identify and report 204 bugs on Etsy\u2019s official website, contributing to a 21% improvement in resolving monthly bug issues.",
+            "Integrated Jenkins for continuous integration, decreasing deployment times for new features by 2 days.",
+            "Managed test plans on TestLink for 17 projects, ensuring detailed documentation and tracking process.",
+            "Practiced cross-browser testing on BrowserStack for Etsy\u2019s 4 new landing pages, ensuring compatibility and a high-quality UX across various platforms."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Software Engineering",
+        "institution": "Rochester Institute of Technology",
+        "start_date": "2010",
+        "end_date": "2014"
+      },
+      "skills": [
+        "TestRail",
+        "Selenium",
+        "Bugzilla",
+        "TestLink",
+        "Jenkins",
+        "Apache JMeter",
+        "SQL Server Management Studio",
+        "BrowserStack",
+        "Firebase Test Lab"
+      ],
+      "resume_id": "software-qa-engineer-resume-example"
+    },
+    {
+      "name": "Victor Reed",
+      "title": "Software Quality Engineer",
+      "contact": {
+        "email": "v.reed@email.com",
+        "phone": "(123) 456-7890",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "job_title": "Software Quality Engineer",
+          "company": "Electronic Arts (EA)",
+          "location": "Redwood City, CA",
+          "duration": "2022 - current",
+          "responsibilities": [
+            "Executed 129 automated test cases with TestNG, expanding test coverage by 29% for EA's latest gaming platforms.",
+            "Maintained 58 SOAP and REST API tests using SoapUI, decreasing backend bugs and ensuring high reliability in multiplayer features.",
+            "Improved code quality by integrating ESLint into the development workflow, reducing coding errors by 12% in multiple game projects.",
+            "Contributed to upgrading continuous delivery processes, achieving a 3-week faster release cycle for 7 game updates with CircleCI."
+          ]
+        },
+        {
+          "job_title": "Software Developer in Test (SDET)",
+          "company": "Microsoft",
+          "location": "Sunnyvale, CA",
+          "duration": "2020 - 2022",
+          "responsibilities": [
+            "Developed 85+ automated test cases in TestRail, eliminating 6 manual testing tasks and expediting release cycles for 2 Microsoft Office products.",
+            "Designed automated scripts to enforce coding standards, lowering reported code integration issues by 14%.",
+            "Tested the backend using Apache Benchmark, simulating heavy loads of up to 391K+ simultaneous users to ensure ease of use in Microsoft\u2019s cloud services under high-volume usage conditions.",
+            "Initiated a team training program on using Perforce effectively, allowing developers to cut down merge conflict incidents by 27% within one quarter."
+          ]
+        },
+        {
+          "job_title": "Automation Tester",
+          "company": "LinkedIn",
+          "location": "Sunnyvale, CA",
+          "duration": "2018 - 2020",
+          "responsibilities": [
+            "Implemented 53 automation test scripts with VMware, enhancing system reliability via quick identification and resolution of bugs.",
+            "Trained a team of 5 junior testers in following the best automation practices, helping them complete 2 more automation tasks every month.",
+            "Wrote comprehensive test documentation and tutorials for qTest within LinkedIn which was later adopted by 97% of other teams.",
+            "Held detailed performance testing sessions on F5 BIG-IP tools, discovering 9 bottlenecks that hindered system performance."
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Arts",
+        "field_of_study": "Computer Science",
+        "institution": "University of California",
+        "location": "Berkeley, CA",
+        "duration": "2014 - 2018"
+      },
+      "skills": [
+        "TestNG",
+        "TestRail",
+        "CircleCI",
+        "Perforce",
+        "Apache Benchmark (ab)",
+        "SoapUI",
+        "qTest",
+        "ESLint",
+        "F5 BIG-IP"
+      ],
+      "resume_id": "software-quality-engineer-resume-example"
+    },
+    {
+      "education": {
+        "institution": "University of California, Los Angeles (UCLA)",
+        "degree": "B.S. Computer Science",
+        "start_date": "Sept 2019",
+        "expected_graduation_date": "Jun 2023",
+        "gpa": 3.389,
+        "technical_coursework": [
+          "Database Systems",
+          "Programming Languages",
+          "Introduction to Algorithms & Complexity",
+          "Software Construction Lab",
+          "Fundamentals of Artificial Intelligence",
+          "Data Science",
+          "Urban Data Science",
+          "Using Data to Learn about Society",
+          "Computer Network Fundamentals",
+          "Intro to Computer Graphics",
+          "Operating Systems Principles",
+          "Computer Architecture"
+        ],
+        "non_technical_coursework": [
+          "Internet & Society",
+          "Computer Mediated Communication",
+          "Social Networks",
+          "Introduction to Digital Humanities",
+          "Introduction to Cities & Planning"
+        ],
+        "awards": [
+          "UCLA Stanton & Stockwell Architects Scholarship Fund (2023)",
+          "UCLA Faculty Fund for Undergraduate Students (2023)",
+          "UCLA Levi James Knight, Jr. Scholarship (2022)",
+          "UCLA Smita Pankaj Patel Scholarship (2021)",
+          "UCLA Muriel & Robert B. Allan Scholarship (2020)",
+          "Ann Kardell Scholarship Fund (2019-2023)"
+        ]
+      },
+      "skills": {
+        "programming_languages": [
+          "JavaScript",
+          "TypeScript",
+          "HTML/CSS",
+          "Python",
+          "Ruby",
+          "SQL",
+          "C/C++",
+          "Swift",
+          "LaTeX"
+        ],
+        "frameworks": [
+          "React",
+          "React Native",
+          "Redux",
+          "Ruby on Rails",
+          "Node.js",
+          "Express.js",
+          "GraphQL"
+        ],
+        "development_tools": [
+          "Git",
+          "Jira",
+          "Agile/Scrum Methods",
+          "MongoDB",
+          "Firebase",
+          "GCP",
+          "Heroku",
+          "XCode",
+          "Figma"
+        ]
+      },
+      "projects": [
+        {
+          "title": "Latino Serving Nonprofit Organizations in California",
+          "course": "Urban Data Science URBN PL 229",
+          "semester": "Spring 2022",
+          "description": "Group Project analyzing Latino community characteristics in California cities using 50+ Latino-Serving Organization Data",
+          "responsibilities": [
+            "Performed K-Means clustering analysis to identify cities with common living conditions and quality of life for Latino populations and current Latino-Serving NPOs in those areas using Python and Jupyter Notebook, presented in ArcGIS",
+            "Joined, cleaned, and formed the final dataframe used for clustering, containing 7 variables found from various data sources including Census API and CalEnviroScreen."
+          ]
+        },
+        {
+          "title": "Airbnbs in Los Angeles",
+          "course": "Introduction to Digital Humanities DGT HUM 101",
+          "semester": "Spring 2022",
+          "description": "Group Research Project centered around impact of Airbnbs in Los Angeles housing market using 'Inside Airbnb' dataset",
+          "responsibilities": [
+            "Analyzed Airbnb pricing by creating 6+ data visualizations on Tableau analyzing current listing prices and conducting research on host pricing strategies and notable listing characteristics such as room type and neighborhood location",
+            "Served as the website specialist creating initial UI wireframes using Figma and assisted team members with setting up Tableau and creating first visualizations"
+          ]
+        },
+        {
+          "title": "Narra",
+          "course": "Software Construction Lab CS 97",
+          "semester": "Fall 2020",
+          "description": "Group Project developing a social media web app matching users based on the compatibility of their MBTI personality type",
+          "responsibilities": [
+            "Served as the lead backend developer working on the login and registration features by creating RESTful APIs for the User model using the MERN stack",
+            "Collaborated with frontend developers to link backend with the frontend, implement error handling, and fix bugs",
+            "Utilized Git for version control management and code review"
+          ]
+        },
+        {
+          "title": "Brewin Interpreter",
+          "course": "Programming Languages CS 131",
+          "semester": "Fall 2022",
+          "description": "Quarter-long individual project building an interpreter for Brewin, an OOP statically-typed (made up) programming language",
+          "responsibilities": [
+            "Developed core functionality including variable declaration/assignment, expression evaluation, and function calls in Python",
+            "Implemented lexical scoping and parameter passing by ref & value using data structures like nested dictionaries and stacks",
+            "Designed and coded support for first class/higher-order functions & creation and passing of lambda and closure functions"
+          ]
+        }
+      ],
+      "work_experience": [
+        {
+          "company": "Handshake",
+          "position": "Full Stack Software Engineering Intern",
+          "duration": "Jun 2022 - Aug 2022",
+          "description": "Handshake democratizes access to opportunity by serving as the #1 website for college students to find jobs & internships",
+          "responsibilities": [
+            "Built a full-stack filter to search for users by language proficiency enabling 30+ premium UK partners to discover and identify candidates that match their needs for international job roles using React, Ruby on Rails, Redux, Elasticsearch & PostgreSQL",
+            "Served as the Subject Matter Expert of the existing filter dropdown by linking component to fetch data from backend while proposing alternative UX and tech implementations to accommodate with existing functionality and time constraints",
+            "Updated 3 webpages to display correct date time formats based on user\u2019s location for US and UK product using Moment.js",
+            "Wrote Rails callback hooks in target segments model to handle archiving of over 100+ existing objects",
+            "Followed Agile/Scrum development practices and utilized Git for version control management and code reviews"
+          ]
+        },
+        {
+          "company": "BlackLine",
+          "position": "Software Engineering Intern",
+          "duration": "Jun 2021 - Aug 2021",
+          "description": "BlackLine is a leading provider of B2B cloud software that automates and controls financial close & accounting processes",
+          "responsibilities": [
+            "Developed and restyled 5+ components in company\u2019s next generation UI component library hosted on Storybook for the Platform Engineering team\u2019s UI refresh and modernization project using React, Less/CSS, and Ant Design Library",
+            "Spearheaded the addition of a new tree-structured filter type to Table component by creating a dropdown component that accordingly displays the tree hierarchy of fetched data and incorporates parent-child relationships into filter selection",
+            "Wrote 10+ unit tests to validate component functionality and identify bugs using Jest, Enzyme, and React Testing Library"
+          ]
+        },
+        {
+          "company": "UCLA Events & Transportation",
+          "position": "Junior Data Analyst",
+          "duration": "Mar 2021 - Present",
+          "description": "UCLA Commuter & Parking Data Lab works on business intelligence projects to support department operations",
+          "responsibilities": [
+            "Created 7+ Tableau dashboards analyzing parking occupancy, Salesforce CRM data, & permit sales used by 50+ employees",
+            "Performed exploratory data analysis on student micro-mobility trends from 3 years worth of ride data provided by Bird, Lime, and Wheels, allowing transportation planners to understand increased electric scooter usage on campus",
+            "Developing a script to geocode customer addresses and store in a new database using Python and Google Maps API",
+            "Implemented new layout and styling standards in Dashboard UI/UX Guide to improve usability and aesthetics"
+          ]
+        }
+      ],
+      "entrepreneurial_experience": [
+        {
+          "title": "Hussle",
+          "role": "Co Founder",
+          "duration": "Jun 2020 - Present",
+          "description": "Hussle is a startup (team of 11) that is developing a freelance marketplace app for college students to monetize their skills",
+          "responsibilities": [
+            "Developing a mobile app built in React Native, Expo, Express.js, Node.js and MongoDB Atlas for college students to start their own small businesses offering services and selling handmade products with the campus community.",
+            "Built 20+ screens and various reusable UI components, including home screen, user profile, gig description screen. Incorporated Redux to manage global state, Stripe for payment, SendGrid for email support & GCP Storage for image upload",
+            "Led the design and development of in-app chat implementation. Researched third-party Javascript chat libraries and decided on the CometChat library. Integrated its APIs providing instant-messaging between sellers and buyers during order process",
+            "Published in iOS App Store and deployed on Heroku for development and production environments in April 2022. Gained 250+ users within 1 month of operation at UCLA with major efforts to grow during the 2022-2023 school year",
+            "Accepted into 2022 Startup UCLA Summer Accelerator Program, UCLA\u2019s premier accelerator program, and received a $5K grant"
+          ]
+        }
+      ],
+      "activities_and_volunteer_experience": [
+        {
+          "organization": "Sigma Eta Pi",
+          "role": "Alumni Relations Director",
+          "duration": "Oct 2021 - Present",
+          "description": "SEP is UCLA\u2019s premier entrepreneurship fraternity dedicated to supporting members in fearlessly pursuing their ambitions",
+          "responsibilities": [
+            "Revamping the alumni database of 250+ members from a plain spreadsheet with empty and outdated information to an Airtable database populated with detailed characteristics and attributes, significantly improving organization, searchability, and overall usability for the organization\u2019s alumni relations and outreach",
+            "Automated the database update process by creating a Linkedin Web Scraping Bot using Python, Selenium, Pandas, and Jupyter Notebook, eliminating manual maintenance and significantly reducing the process by hours",
+            "Performing data analysis and visualization to understand current makeup & demographic of alumni using Pandas"
+          ]
+        },
+        {
+          "organization": "Congressional App Challenge Alumni Advisory Board",
+          "role": "Workshops Director",
+          "duration": "Jun 2021 - May 2022",
+          "description": "CAC AAB is a group of CAC alumni that support App Challenge operations and plan educational programs for participants",
+          "responsibilities": [
+            "Pioneered the organization\u2019s first workshop series offered to hundreds of middle & high school students across the nation",
+            "Crafted workshops in App Ideation/Design Thinking & hosted drop-in Office Hours sessions providing feedback and guidance for participants towards completing their projects"
+          ]
+        },
+        {
+          "organization": "UCLA SWE Advocacy Committee",
+          "role": "Diversity Outreach Director",
+          "duration": "Oct 2020 - Jun 2021",
+          "description": "SWE Advocacy Committee serves to advocate for the inclusion and success of underrepresented communities across STEM",
+          "responsibilities": [
+            "Advocated for AB 1125 - Dignity for Incarcerated Women Act, recommending provisions to the act. Presented work to 3 Congressional Staff Members, including staff of author of the act",
+            "Organized the annual Diversity Showcase where students of different backgrounds share their experiences of pursuing STEM. Successfully shifted event to a remote setting by making a supplemental website in Wix to spotlight students"
+          ]
+        }
+      ],
+      "professional_memberships": [
+        "Society of Women Engineers",
+        "National Center for Women in Technology & Computing",
+        "Sigma Eta Pi",
+        "Rewriting the Code"
+      ],
+      "awards": [
+        "NJ-11 Congressional App Challenge Winner (2018)",
+        "House of Representatives - Created sPeach",
+        "Engineering Scholarship & Fellowship Brunch Speaker (2022) | UCLA Engineering - Featured in UCLA Engineering news",
+        "Lockheed Martin STEM Scholar (2019) | Lockheed Martin - Selected 200 out of 6,333 applicants, $40,000 scholarship across 4 years"
+      ],
+      "resume_id": "Software_Engineering_2"
+    },
+    {
+      "name": "Lucian Ashford",
+      "title": "Staff Software Engineer",
+      "contact": {
+        "email": "l.ashford@email.com",
+        "phone": "(123) 456-7890",
+        "location": "Alpharetta, GA",
+        "linkedin": "LinkedIn"
+      },
+      "work_experience": [
+        {
+          "title": "Staff Software Engineer",
+          "company": "McKesson Corporation",
+          "location": "Alpharetta, GA",
+          "dates": "2022 - current",
+          "responsibilities": [
+            "Overhauled MySQL schema indexation, enabling quicker data access and saving six hours of query time per month",
+            "Formulated a cost-saving strategy by adopting Kubernetes, cutting cloud resource expenditure by $46,974 for the fiscal year",
+            "Managed successful optimization of JavaScript routines in eight high-traffic applications, which saved maintenance costs",
+            "Authored comprehensive documentation on C++-coded features, simplifying troubleshooting time for technical teams by 21%"
+          ]
+        },
+        {
+          "title": "Associate Software Developer",
+          "company": "InComm",
+          "location": "Atlanta, GA",
+          "dates": "2019 - 2022",
+          "responsibilities": [
+            "Developed cutting-edge JavaScript features for a fin-tech application, increasing transaction volume by 4,849 transactions per month",
+            "Processed over 346 defects through Pytest in six months, enhancing product stability for over 54,650+ users",
+            "Built Angular interfaces that decreased page load times by 1.7 seconds, improving customer transaction completion rate by 8%",
+            "Leveraged Oracle Cloud functionalities to automate backups, preventing potential annual losses of $8,873 in data recovery"
+          ]
+        },
+        {
+          "title": "Technical Support Analyst",
+          "company": "Cox Communications",
+          "location": "Atlanta, GA",
+          "dates": "2017 - 2019",
+          "responsibilities": [
+            "Negotiated with software providers to utilize Pytest, saving the company a projected $8,664 in tool licensing in two years",
+            "Drafted more than 152 technical guides for Kubernetes, reducing the orientation period for new hires by 26%",
+            "Analyzed and processed customer data with MySQL queries, improving response times by eight minutes per inquiry",
+            "Implemented a new system for bug logging with Mercurial that reduced discrepancies in error logs by 28%"
+          ]
+        }
+      ],
+      "education": {
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "institution": "Georgia Institute of Technology",
+        "location": "Atlanta, GA",
+        "dates": "2013 - 2017"
+      },
+      "skills": [
+        "Eclipse",
+        "Mercurial",
+        "JavaScript",
+        "C++",
+        "Angular",
+        "MySQL",
+        "Kubernetes",
+        "Oracle Cloud",
+        "Pytest",
+        "Jira"
+      ],
+      "resume_id": "staff-software-engineer-resume-example"
+    },
+    {
+      "name": "Yaoyao (Renee) Wang",
+      "contact": {
+        "phone": "(626) 861-2462",
+        "email": "wang.yaoya@northeastern.edu",
+        "linkedin": "linkedin.com/in/rw511/",
+        "location": "Seattle, WA"
+      },
+      "education": [
+        {
+          "institution": "Northeastern University",
+          "location": "Seattle, Washington",
+          "degree": "M.S. in Computer Science",
+          "gpa": "3.97/4.00",
+          "dates": "Sep 2020 \u2013 Dec 2023"
+        },
+        {
+          "institution": "University of Kansas Medical Center",
+          "location": "Kansas City, Kansas",
+          "degree": "B.S. in Health Information Management",
+          "gpa": "3.60/4.00",
+          "dates": "Jan 2015 \u2013 May 2019"
+        }
+      ],
+      "skills": {
+        "programming_languages": [
+          "Java",
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "HTML",
+          "CSS",
+          "SQL",
+          "GraphQL",
+          "C/C++"
+        ],
+        "frameworks_and_stacks": [
+          "Angular",
+          "React",
+          "Express",
+          "Node.js",
+          "MongoDB",
+          "RxJS",
+          "Reactive Form",
+          "Flexbox"
+        ],
+        "development_tools": [
+          "Android Studio",
+          "VS Code",
+          "Git",
+          "Vim",
+          "JUnit",
+          "Jest",
+          "IntelliJ",
+          "Eclipse",
+          "MySQL",
+          "R Studio",
+          "GCP"
+        ],
+        "coursework": [
+          "Data Structures & Algorithms",
+          "Database Management Systems",
+          "Object-Oriented Design",
+          "Mobile Application Development",
+          "Web Development",
+          "Computer Systems",
+          "Cloud Computing (AWS Academy)"
+        ]
+      },
+      "work_experience": [
+        {
+          "company": "Google, Cloud AI & Industry Solution, Document AI Frontend",
+          "location": "Sunnyvale, California",
+          "position": "Software Engineer Intern",
+          "dates": "May 2022 \u2013 Sep 2022",
+          "responsibilities": [
+            "Collaborated with backend engineers, UX designers, and PM team to have new features launched for Document AI labeling service and document service on Google Cloud Next 2022",
+            "Created a new labeling task creation UI component to allow customers customizing a task and sending dataset documents to human specialists, and added view/stop labeling task frontend to help customers manage tasks",
+            "Built auto-labeling documents frontend to enable customers automatically pre-label documents with a selected processor version via import"
+          ],
+          "technologies": [
+            "Angular",
+            "TypesScript",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "GraphQL",
+            "Google Cloud",
+            "GCP"
+          ]
+        }
+      ],
+      "selected_projects": [
+        {
+          "title": "Recipe Book",
+          "technologies": [
+            "JavaScript",
+            "MERN"
+          ],
+          "date": "Dec 2023",
+          "description": [
+            "Designed and built a feature-rich recipe-sharing full-stack web application that allows users to share, explore, and save recipes using the MERN (MongoDB, Express.js, React.js, Node.js) stack",
+            "Integrated MongoDB to store user account data and recipe information, ensuring scalability and efficient data management",
+            "Implemented user authentication functionalities, ensuring secure access to user account data and recipe information",
+            "Created RESTful APIs using Express.js to handle CRUD operations for users to manage recipes activities",
+            "Utilized state management techniques in React.js to maintain the application's state and enable dynamic content rendering",
+            "Conducted thorough testing, including unit tests for frontend and backend components, and integration tests to ensure seamless communication between layers before deployed the app to a production environment using Google Cloud"
+          ]
+        },
+        {
+          "title": "Stock Ninja",
+          "technologies": [
+            "Java",
+            "Android Studio",
+            "Firebase"
+          ],
+          "date": "Jan 2022",
+          "description": [
+            "Led a group of 4 to design and develop an investment-based mobile application that mainly supports users virtually trading stocks",
+            "Implemented layouts of user portfolio, stock information and discussion board by creating dynamic lists with Recycler View and applying addictive principles",
+            "Integrated with an open-source API to fetch real-time stock information and market data for users to search",
+            "Utilized Firebase Realtime Database to storage account authentication infos, discussion posts and transaction histories",
+            "Enabled GPS sensor to allow users share location and find nearby users to keep users engaged"
+          ]
+        },
+        {
+          "title": "National Park Search Engine",
+          "technologies": [
+            "Java",
+            "MySQL",
+            "Eclipse"
+          ],
+          "date": "Sep 2021",
+          "description": [
+            "Delivered a data-driven web application for reviews and ratings of National Parks across west coast to benefit outdoor enthusiasts who are unhappy with scattered information of products in the current market",
+            "Utilized MySQL to store user information, recommendations, reviews, and preference",
+            "Used JDBC to build the data access layer and used JSP to build the web application",
+            "Analyzed the factors that contributes to the rankings of National Parks by utilizing CloverDx"
+          ]
+        },
+        {
+          "title": "Checkers Game",
+          "technologies": [
+            "Python",
+            "Turtle"
+          ],
+          "date": "Dec 2020",
+          "description": [
+            "Implemented the game logic to compute state-action transition and to recognize winner",
+            "Designed and developed the game UI to reveal the board states and receive the input actions from users",
+            "Achieved greedy-based approach for AI with minimal strategies, allowing users to play with the computer player"
+          ]
+        }
+      ],
+      "resume_id": "YaoyaoWang_Resume_NEU"
+    }
+  ],
+  "job_description": {
+    "job_id": "job_001",
+    "title": "Software Engineer - Backend",
+    "category": "Software Engineering",
+    "description": "We are seeking a skilled Software Engineer to develop and maintain backend services for our web applications. The ideal candidate will have strong programming experience, a good understanding of cloud platforms, and the ability to work in an Agile team environment.",
+    "required_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "REST API Development",
+      "AWS",
+      "Docker",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Kubernetes",
+      "GraphQL",
+      "NoSQL Databases",
+      "CI/CD Pipelines",
+      "Microservices Architecture"
+    ],
+    "preferred_companies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Apple",
+      "Netflix",
+      "Uber",
+      "Airbnb",
+      "Spotify",
+      "GitHub",
+      "DocuSign",
+      "Salesforce"
+    ],
+    "experience_required": 2,
+    "education_required": "Bachelor's Degree in Computer Science or related field"
+  }
+}

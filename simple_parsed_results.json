@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "total_processed": 5,
+    "successful_parses": 5,
+    "csv_file": "data/all_resumes.csv",
+    "timestamp": "2025-08-05 22:22:54.694317"
+  },
+  "resumes": [
+    {
+      "resume_id": 16852973,
+      "category": "HR",
+      "name": null,
+      "email": null,
+      "phone": null,
+      "location": "Experience, HR",
+      "skills": [
+        "Analytical",
+        "Leadership",
+        "Time Management",
+        "Team",
+        "Management",
+        "Swift"
+      ],
+      "total_skills": 6,
+      "experience_count": 0,
+      "education_count": 0,
+      "parsing_success": true
+    },
+    {
+      "resume_id": 22323967,
+      "category": "HR",
+      "name": null,
+      "email": null,
+      "phone": null,
+      "location": "Current, HR",
+      "skills": [
+        "Communication",
+        "Creative",
+        "Project Management",
+        "Team",
+        "Management"
+      ],
+      "total_skills": 5,
+      "experience_count": 0,
+      "education_count": 0,
+      "parsing_success": true
+    },
+    {
+      "resume_id": 33176873,
+      "category": "HR",
+      "name": null,
+      "email": null,
+      "phone": null,
+      "location": null,
+      "skills": [
+        "Express",
+        "Leadership",
+        "Project Management",
+        "Team",
+        "Management",
+        "Strategic"
+      ],
+      "total_skills": 6,
+      "experience_count": 0,
+      "education_count": 0,
+      "parsing_success": true
+    },
+    {
+      "resume_id": 27018550,
+      "category": "HR",
+      "name": null,
+      "email": null,
+      "phone": null,
+      "location": null,
+      "skills": [
+        "Management",
+        "Presentation",
+        "Team",
+        "Communication"
+      ],
+      "total_skills": 4,
+      "experience_count": 0,
+      "education_count": 0,
+      "parsing_success": true
+    },
+    {
+      "resume_id": 17812897,
+      "category": "HR",
+      "name": null,
+      "email": null,
+      "phone": null,
+      "location": "Skill Highlights, HR",
+      "skills": [
+        "Leadership",
+        "Project Management",
+        "Problem Solving",
+        "Management",
+        "Team",
+        "Strategic"
+      ],
+      "total_skills": 6,
+      "experience_count": 0,
+      "education_count": 0,
+      "parsing_success": true
+    }
+  ]
+}
